@@ -10,6 +10,7 @@ url: "http://remerjohnson.github.io" # the base hostname & protocol for your sit
 twitter_username: ejones82
 github_username: remerjohnson
 highlighter: rouge
+timezone: America/Los_Angeles
 encoding: utf-8
 
 # Build settings
