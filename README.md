@@ -1,5 +1,5 @@
 # About
-This is a Github pages theme based on Twitter Bootstrap for your Github projects
+This is a Github pages theme based on Twitter Bootstrap.
 # Demo:
 http://robertcedwards.github.io/gh-pages-theme/
 
