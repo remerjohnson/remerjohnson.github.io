@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: About Ryan Johnson
 permalink: /about/
 ---
 
-Some information about you!
+Hello. I am a Metadata Librarian at [UC San Diego](http://ucsd.edu/). I make sure digital objects in repositories are described and marked up correctly so that they are discoverable in many ways, including utilizing Linked Data. I also help researchers in Research Data Curation to describe their research.  
+  
+You can view all this pretty metadata in the [UC San Diego Digital Collections](http://library.ucsd.edu/dc).
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ryan.emerson.johnson@gmail.com](mailto:email@domain.com)
