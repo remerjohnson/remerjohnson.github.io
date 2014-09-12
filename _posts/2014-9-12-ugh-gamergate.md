@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ugh, #GamerGate
+title: Ugh, GamerGate
 ---
 
 It's not surprising, but the state of video games has not improved any since we last left it in flames weeks ago. I posted then about my feelings, which were mixed. That has also not changed, but rather solidified. Which is why I say "UGH!", because it means this drama has to be prolonged, and the world outside games points at us and laughs.  
