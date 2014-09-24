@@ -5,7 +5,7 @@ title: Quality Assurance in Metadata
 
 I know, I know: quality assurance isn't a sexy topic. Neither is metadata. When the two meet, it is an unholy alliance of boring. But metadata work is heavily reliant on QA. The best data model, the best workflows, the perfect Linked Data strategy all fail if a 1 or 0 or non-escaped character is where it shouldn't be.  
 
-Rather by chance, I have Quality Assurance experience. I was a video game tester with the publisher THQ (R.I.P.) for just over a year in 2006. No, [Grandma's Boy](http://en.wikipedia.org/wiki/Grandma%27s_Boy_(2006_film) was not an accurate portrayal of my existence, but it was close ;) There really were people like JP:
+Rather by chance, I have Quality Assurance experience. I was a video game tester with the publisher THQ (R.I.P.) for just over a year in 2006. No, [Grandma's Boy](http://en.wikipedia.org/wiki/Grandma%27s_Boy_(2006_film)) was not an accurate portrayal of my existence, but it was close ;) There really were people like JP:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/bHLR3faI7lU" frameborder="0" allowfullscreen></iframe>  
 
@@ -15,4 +15,6 @@ But quality assurance is difficult. You have to be intensely aware of what you'r
 
 You're thinking of all the game mechanics and systems that are behind the character. If I level up, maybe I don't spend my skill points right away, because if I level up again, maybe my skill points will stay at the same number, indicating a bug. Maybe I should find the most obscure weapon attachment I can find, and use an alternate fire keyboard shortcut on it, because I have a hunch the animations aren't in, or it won't fire. Or maybe I just go do side missions to look for typos.  
 
-Sadly, a lot of quality assurance in metadata is in this last realm, the lowest of the low priority bugs: typos. Data input of any kind is notoriously bad, no matter how experienced the person is. Not only that, but people make metadata organization ideas without even realizing it, like typing a list of names in a column instead of delimiting them, or putting them in separate fields. This might ensure the data will never be parsed out in the future, which might utlimately limit display functionality.  
+Sadly, a lot of quality assurance in metadata is in this last realm, the lowest of the low priority bugs: typos. Data input of any kind is notoriously bad, no matter how experienced the person is. Not only that, but people make metadata organization decisions without even realizing it, like typing a list of names in a column instead of delimiting them, or putting them in separate fields. This might ensure the data will never be parsed out in the future, which might utlimately limit display functionality.  
+
+Just as in video game quality assurance, we hope that our metadata work will save bad content from coming out. And beyond that, we hope our metadata work actually improved the features and functionality of the digital objects.
