@@ -26,6 +26,7 @@ And now I finish with yet again calling for both sides to not engage in such vit
 So while #GamerGate has a lot more to account for on the harassment side, we can't really excuse people like Leigh Alexander saying "gamer" as word needs to die because of its associated problematic behavior, and yet she regularly spits bile and claims she will personally try to get people fired who embrace the #GamerGate movement. What, in her mind, would that accomplish, other than more hate and misunderstanding?    
 
 So, yikes. As much as I would like this whole thing to go away, it doesn't look like it will any time soon. There are some bright spots, like: 
+
 * Video game journalism sites updating their policies. This can never be a bad thing.
 * Some interesting discussions about how we would make games different. For example, there was an excellent discussion in the comments (I know, right?!) on Rock, Paper, Shotgun on how to abandon the "brooding dark male hero who murders everything because his family was murdered" trope by maybe having a game based on the Dungeons and Dragons' Bard class.
 * A general awareness that women in tech, video games, and hell, women just trying to play or tweet about video games online face daily, despicable harassment. 
