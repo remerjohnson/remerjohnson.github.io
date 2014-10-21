@@ -3,7 +3,7 @@ layout: post
 title: Toward a Metadata Pipeline
 ---
 
-![Water Pipeline](http://img.photobucket.com/albums/v412/ejones6286/water-pipeline.jpg)
+![Water Pipeline](http://img.photobucket.com/albums/v412/ejones6286/water-pipeline.jpg~original)
 
 Now that I've been in my first librarian gig for almost 5 months (whoa), I've got a solid grasp on how things are done with regards to our digital repository and how metadata gets "made". I also of course bring baggage with me, both good and bad, from library school and elsewhere. This baggage contains thoughts, theories, dreams, ambitions of where I've been and where I want the metadata to go. Where the present of "how we do this now" and the baggage collide is a perhaps idealistic notion of how the whole process should work (in my opinion, naturally). I wanted this post to frame out that process broadly, into a blueprint or pipeline. Much of the inspiration comes from a wonderful and healthy IT department, its connections to the larger open source community, and the recent DCMI Conference in Austin.   
 
