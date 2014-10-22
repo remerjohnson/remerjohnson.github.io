@@ -11,7 +11,7 @@ The downside is that this pipeline really only works specifically for my institu
 
 ### The opening of the pipe 
 
-Anyone who has worked with XML metadata for any amount of time knows that although an XML document won't render if it is syntactically incorrect, it doesn't really do anything about bad or inconsistent metadata values. It's merely a serialization of metadata, which means the underlying data is often laden with errors, as any human-created data likely is. The fortunate thing is that we can take the ridiculously time-consuming task of fixing bad metadata and be helped by computers. 
+Anyone who has worked with XML metadata for any amount of time knows that although an XML document won't render if it is syntactically incorrect, it doesn't really do anything about bad or inconsistent metadata values. It's merely a serialization of metadata, which means the underlying data is often laden with errors, as any human-created data likely is. We could paraphrase this with the old adage **G**arbage **I**n, **G**arbage **O**ut (GIGO). The fortunate thing is that we can take the ridiculously time-consuming task of fixing bad metadata and be helped by computers. 
 
 In my current situation, my department doesn't actually create metadata: we merely handle it and get it into a state where it can be ingested with digital objects into a repository. So, even if we were perfect metadata-entering robots (hint: no one is), we are not in control over the opening of the pipe. We can, however, throw a nice sieve into the pipe to filter out all the messy stuff. 
 
