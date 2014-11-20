@@ -9,7 +9,7 @@ Rather by chance, I have Quality Assurance experience. I was a video game tester
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/bHLR3faI7lU" frameborder="0" allowfullscreen></iframe>  
 
-In nerd gamer land, and to many people in libraries who look at my resume, the job of video gamer tester seems like a dream job. Get paid to play video games all day! Turn your obsession -- er passion -- into your profession! But little about the job was fun. Funny? Absolutely. It was also difficult and tedious. It had its perks, like lots of video game swag, free copies of games, and the chance to go represent the company at game conferences. It was also strangely satisfying when a game finally went gold and you knew the grueling crunch time was over.  
+In nerd gamer land, and to many people in libraries who look at my resume, the job of video game tester seems like a dream job. Get paid to play video games all day! Turn your obsession -- er passion -- into your profession! But little about the job was fun. Funny? Absolutely. It was also difficult and tedious. It had its perks, like lots of video game swag, free copies of games, and the chance to go represent the company at game conferences. It was also strangely satisfying when a game finally went gold and you knew the grueling crunch time was over.  
 
 But quality assurance is difficult. You have to be intensely aware of what you're doing at all times. If you're controlling a character, for example, you're not 'playing'. You're breaking down every movement, and experimenting, trying to get them to do stuff they're not supposed to. Bonus points if they glitch out and crash the game.  
 
