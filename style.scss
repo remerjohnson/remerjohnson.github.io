@@ -75,6 +75,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $gray;
+    text-decoration-style: wavy;
   }
 }
 
