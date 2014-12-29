@@ -18,8 +18,8 @@ Although Mario Kart made a lot of the Best Of lists this year, I was surprised t
 Many people lament the changing of battle courses to be basically the racing courses, but I really enjoy this change. It gave beginning players a bit of a chance to run away if they hadn't memorized the item block placement, and made a few different strategies besides "get the 3 green shell powerup and slam into people". We also can't forget this is the first Mario Kart in HD, the addition of anti-gravity, and the addition of DLC and Amiibo characters. This was the first Mario Kart I had to play since Gamecube.  
 
 ## Valkyria Chronicles   
-{:.center}
-![Valkyria Chronicles](http://cdn.akamai.steamstatic.com/steam/apps/294860/header.jpg?t=1415705873)  
+![Valkyria Chronicles](http://cdn.akamai.steamstatic.com/steam/apps/294860/header.jpg?t=1415705873)
+{: .center}
 This game is only new for PC, but is the only version I have played. Nintendo's Fire Emblem series is one of my favorites, and while Valkyria Chronicles is vastly different in its game systems, it is also a Japanese strategy RPG with engaging characters you really care about. The alternate reality where steampunk elements meet World War II (roughly paralleling the invasion of Poland I think?) is a surprisingly fresh take for a WWII-based video game. I honestly haven't explored this game very deeply yet, 
 
 ## Skyrim (SkyRE)  
