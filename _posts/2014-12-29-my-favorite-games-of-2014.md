@@ -12,7 +12,8 @@ Linux is slowly taking off for gaming, due in no small part to the [Humble Bundl
 The console space I can't really speak to with any authority, so you can definitely ignore the lack of XBone or PS4 exclusives in my list. I do have a Wii U, but missed a few of the major releases like Smash Brothers.  
 
 ## Mario Kart 8  
-
+![Mario Kart 8](http://mariokart8.nintendo.com/img/fbook.jpg)
+{: .center}
 Although Mario Kart made a lot of the Best Of lists this year, I was surprised to see how many claims there were of it being  repetitive and "more of the same". It's no major departure, but Mario Kart 8 introduces as many innovations and features as I can remember in the series.  
 
 Many people lament the changing of battle courses to be basically the racing courses, but I really enjoy this change. It gave beginning players a bit of a chance to run away if they hadn't memorized the item block placement, and made a few different strategies besides "get the 3 green shell powerup and slam into people". We also can't forget this is the first Mario Kart in HD, the addition of anti-gravity, and the addition of DLC and Amiibo characters. This was the first Mario Kart I had to play since Gamecube.  
