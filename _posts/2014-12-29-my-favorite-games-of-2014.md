@@ -42,3 +42,5 @@ This is another game I haven't spent a ton of time with, but I can already tell 
 ![Gauntlet](http://cdn2.expertreviews.co.uk/sites/expertreviews/files/gauntlet_2014_game_hd.jpg)
 {: .center}
 Perhaps being a child of the 80's allowed me to overlook the many flaws of Gauntlet, but it continues to just be pure, unadulterated fun. It manages to be a deep arcade game, which is quite an achievement. With a combination of item acquisition and simple achievements, you can make progress without ever becoming overpowered and trivializing the levels. It is amazingly fun in co-op multiplayer and becomes a whole different game. As long as the developer continues to make more content for the game, I have no hesitation to call Gauntlet one of the best arcade games in recent years.   
+
+That's it for now. I might add some honorable mentions or some games that actually merit space later (I don't have Dragon Age: Inquisition, and I'm pretty sure it'd make it).  
