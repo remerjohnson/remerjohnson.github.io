@@ -27,7 +27,9 @@ This game is only new for PC (it is a console port). Nintendo's Fire Emblem seri
 ![The Banner Saga](https://i.ytimg.com/vi/FbIH0vS9AG4/maxresdefault.jpg) 
 {: .center}
 Another game that satisfies my strategy RPG itch is The Banner Saga. But much more importantly, this is a beautiful game that tells a brutal, at times nihilistic story about Vikings in the midst of the apocalypse. Humans and a race of giants are forced to unite against machine-like invaders called the Dredge, while a giant serpent threatens to destroy the Earth. It's a good spin on the Norse sagas. All of the cutscenes are painstakingly animated, so much so that in between battles you can sit back and watch a cinematic cartoon.  
+
 Some dislike the combat, but the brutal mechanics seem to mirror the story. You must make harsh decisions, and a lot of times the odds will be stacked against you. Enemies get every other turn in the order no matter what you do. This can be unfair at times, but it does allow you to keep around enemies who aren't a threat so that you can get more turns in.  
+
 The weakest part of the game is indeed the traveling sections. They are sort of like Oregon Trail, in that you have to keep an eye on supplies and your caravan, but the mechanic feels a bit underdeveloped. Worse, the traveling section contains severely important events, the results of which can have you lose up to two heroes. But there's nothing indicating if this truly is a supply cart in trouble, which will cost a day's worth of supplies, or if it will result in the death of your favorite unit. You will be missed, Gunnulf.  
 
 # Wasteland 2  
