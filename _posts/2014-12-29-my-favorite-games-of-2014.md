@@ -21,7 +21,19 @@ Many people lament the changing of Battle mode courses, since they are the same 
 # Valkyria Chronicles   
 ![Valkyria Chronicles](http://cdn.akamai.steamstatic.com/steam/apps/294860/header.jpg?t=1415705873)
 {: .center}
-This game is only new for PC (it is a console port), but it is the only version I have played. Nintendo's Fire Emblem series is one of my favorites, and while Valkyria Chronicles is vastly different in its game systems, it is also a Japanese strategy RPG with engaging characters you really care about. The alternate reality where steampunk elements meet World War II (roughly paralleling the invasion of Poland I think?) is a surprisingly fresh take for a WWII-based video game. I honestly haven't explored this game very deeply yet, but the way you can plan a map strategically in the beginning, and the variety of options in the turn-based action, make this game a blast to play. It's so great to see turn-based games getting a renaissance on PC.
+This game is only new for PC (it is a console port). Nintendo's Fire Emblem series is one of my favorites, and while Valkyria Chronicles is vastly different in its game systems, it is also a Japanese strategy RPG with engaging characters you really care about. The alternate reality where steampunk elements meet World War II (roughly paralleling the invasion of Poland I think?) is a surprisingly fresh take for a WWII-based video game. I honestly haven't explored this game very deeply yet, but the way you can plan a map strategically in the beginning, and the variety of options in the turn-based action, make this game a blast to play. It's so great to see turn-based games getting a renaissance on PC.
+
+# The Banner Saga 
+![The Banner Saga](https://i.ytimg.com/vi/FbIH0vS9AG4/maxresdefault.jpg) 
+{: .center}
+Another game that satisfies my strategy RPG itch is The Banner Saga. But much more importantly, this is a beautiful game that tells a brutal, at times nihilistic story about Vikings in the midst of the apocalypse. Humans and a race of giants are forced to unite against machine-like invaders called the Dredge, while a giant serpent threatens to destroy the Earth. It's a good spin on the Norse sagas. All of the cutscenes are painstakingly animated, so much so that in between battles you can sit back and watch a cinematic cartoon.  
+Some dislike the combat, but the brutal mechanics seem to mirror the story. You must make harsh decisions, and a lot of times the odds will be stacked against you. Enemies get every other turn in the order no matter what you do. This can be unfair at times, but it does allow you to keep around enemies who aren't a threat so that you can get more turns in.  
+The weakest part of the game is indeed the traveling sections. They are sort of like Oregon Trail, in that you have to keep an eye on supplies and your caravan, but the mechanic feels a bit underdeveloped. Worse, the traveling section contains severely important events, the results of which can have you lose up to two heroes. But there's nothing indicating if this truly is a supply cart in trouble, which will cost a day's worth of supplies, or if it will result in the death of your favorite unit. You will be missed, Gunnulf.  
+
+# Wasteland 2  
+![Wasteland 2](https://wasteland.inxile-entertainment.com/static/img/pages/media/WL2logo-1920.jpg) 
+{: .center}
+I never played the original Wasteland, but I adore the spiritual successor of the series, Fallout. Wasteland 2 at first seems like a throwback, and perhaps a little *too* retro for its own good. However, the cheesy dialogue and Full Motion Video cutscenes of the opening really gave me nostalgia for 90s video games, and the story and combat have a wonderful combination of modern and retro. This is a game about planning and choices, hard numbers and decisions. Which is refreshing these days, and ironic that this is now considered "indie", since this style of RPG was everywhere in an earlier time.  
 
 # Skyrim (SkyRE)  
 ![T3nd0 Skyrim REdone](http://static-4.nexusmods.com/15/mods/110/images/9286-1-1362639669.png)
