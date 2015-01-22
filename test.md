@@ -4,8 +4,6 @@ title: Test
 permalink: /test2/
 --- 
 
-## Testing testing 1,  
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -13,7 +11,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 
-<body bgcolor=white lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+<body markdown=1>
 
 <div class=WordSection1>
 
