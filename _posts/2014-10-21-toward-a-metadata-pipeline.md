@@ -4,6 +4,7 @@ title: Toward a Metadata Pipeline
 ---
 
 ![The metadata version of this](http://pixabay.com/static/uploads/photo/2014/10/30/23/04/pressure-water-line-509871_640.jpg)
+{: .center}
 [*Source: Image CC0 Pixabay*](http://pixabay.com/static/uploads/photo/2014/10/30/23/04/pressure-water-line-509871_640.jpg)
 {: .center}  
 
