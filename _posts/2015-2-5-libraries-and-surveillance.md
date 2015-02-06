@@ -15,8 +15,6 @@ Responding to such a pervasive problem is never easy. Beyond education, are ther
 
 A lot of these projects can be tackled piecemeal, but there are some more holistic systems we can consider. I personally would love to see a ground-up approach that is not just implemented, but put on display to library visitors as a collection in its own right, and followed up on via ongoing assessment and revision. It could be integrated alongside existing hacker or makerspaces.  
 
-* test
-
 There are lots of options depending on comfort and knowledge level:  
 * A router running [OpenWRT](https://openwrt.org/) or other open source firmware. Besides just giving librarians better control over their networks, it can allow some pretty neat stuff.
 * Implementing HTTPS with appropriate standards and certificates. Honestly, people. It's no longer cool to ever have a         non-encrypted website. Ever.
