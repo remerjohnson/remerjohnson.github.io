@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Libraries and Surveillance: What's Our Role?
+title: Toward a Metadata Pipeline
 ---
 
 ![The digital version of this](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Postcards_and_magnifying_glass.jpg/1280px-Postcards_and_magnifying_glass.jpg)  
