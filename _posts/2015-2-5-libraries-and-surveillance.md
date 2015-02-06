@@ -3,7 +3,7 @@ layout: post
 title: Libraries and Surveillance
 ---
 
-![The digital version of this](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Postcards_and_magnifying_glass.jpg/1280px-Postcards_and_magnifying_glass.jpg)  
+![The digital version of this](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Postcards_and_magnifying_glass.jpg/1280px-Postcards_and_magnifying_glass.jpg "test")  
 
 This post is inspired by Kade Krockford of [Privacy SOS](http://privacysos.org/) and Alison Macrina of [Library Freedom Project](https://libraryfreedomproject.org/). They're doing good work, so support them and show up whenever they host stuff!  
 
