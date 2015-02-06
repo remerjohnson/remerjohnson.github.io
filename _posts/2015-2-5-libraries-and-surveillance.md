@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toward a Metadata Pipeline
+title: Libraries and Surveillance
 ---
 
 ![The digital version of this](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Postcards_and_magnifying_glass.jpg/1280px-Postcards_and_magnifying_glass.jpg)  
