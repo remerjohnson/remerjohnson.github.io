@@ -7,6 +7,7 @@ permalink: /docs/
 ## Summary
 This documentation is a guide for DOMM (Digital Object Metadata Management Unit) and IT as well as external audiences regarding the Excel Standard Input Stream. This input stream is meant to take existing metadata that has been mapped to Excel spreadsheets, and ingest them along with associated files into the UC San Diego Digital Collections. 
 Some tips specifically for DOMM Unit members:   
+
 + [The latest version of the Excel Input Stream template/spreadsheet](https://illiad.ucsd.edu:8443/download/attachments/33719826/xls_standard_input_template_2015-01-16.xlsx?version=1&modificationDate=1421423565000&api=v2). If a mapping changes, it is important to inform IT of this in JIRA, and point them to the updated mapping file(s). It's good practice to include the date the mapping was updated in the file name(s), in order to avoid confusion.  It's also important to remove older mappings to avoid versioning issues going forward. It is also possible that IT will modify the mapping document rather than just DOMM, so DOMM and IT should be aware of which document to work from, with JIRA's being the definitive latest document.  
 + The excel standard input stream accommodates simple objects and objects with components. Work is being done to support subcomponents for an additional level of hierarchy.  
 + Order of components will be taken from the order of the components in the spreadsheet.  
