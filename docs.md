@@ -12,8 +12,7 @@ Some tips specifically for DOMM Unit members:
 + The excel standard input stream accommodates simple objects and objects with components. Work is being done to support subcomponents for an additional level of hierarchy.
 + Order of components will be taken from the order of the components in the spreadsheet.
 + Ingest for Excel will live on the first worksheet of the Excel document: other information not essential to mapping can live on additional sheets. This other information will not be actionable by IT. 
-+ DOMM should ensure column names match the template exactly, including:
-
++ DOMM should ensure column names match the template exactly, including:  
   + Exact spelling
   + Exact case
   + No whitespace, especially trailing whitespace
