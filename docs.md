@@ -28,7 +28,7 @@ v1.5 - Changed wording to be more appropriate for external audiences 02/04/2015
 
 ## Internal Resources
 [Current Data Dictionary](https://illiad.ucsd.edu:8443/display/DOMM/Data+Dictionary+-+DRAFT)  
-[Controlled Value Lists](https://illiad.ucsd.edu:8443/display/DOMM/Controlled+Value+Lists)  
+[Controlled Value Lists](https://illiad.ucsd.edu:8443/display/DOMM/Controlled+Value+Lists)   
 
 ## To do:  
 
