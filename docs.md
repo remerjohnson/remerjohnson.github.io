@@ -57,23 +57,9 @@ v1.5 - Changed wording to be more appropriate for external audiences 02/04/2015
 |Column Header Name|Description|Internal|Controlled Values Format Restrictions|
 |------------------|-----------|--------|-------------------------------------|
 |**Object Unique ID** (Required)|An object and its components share the same Object ID. These are usually supplied by the data provider.  It is not mapped to DAMS, but you can copy it in "Identifier:other" if it is useful.|Used by IT to delineate objects from components. Used by DOMM simply to keep track of which things are objects and components visually. If not provided, DOMM must create.| | 
-
-
-Object/Component
-(Required)
-A complex object would have one row listed as 'Object', with its files in the next rows as 'Component' values. A simple object would just have a value of 'Object'. "Component" rows must be in the intended order (DAMS display order is determined by row count).	
-'Object' or 'Component'
-File Name
-
-For simple objects, a file name must be provided. For complex objects, file names must be provided for all of its components and possibly the object.
-
-Used by IT to match resource file to metadata.
-Files must be copied to \\lib-storage\digital-staging\[project folder]. FIle name format is not important for ingest, IT will generate ARKs from the file names.
-File extensions must be included.
-File Use
-
-File Use will normally be left blank, to be later filled in once the system determines its function (determined by filetype/MIMEtype). Sometimes a default value needs to be overwritten, e.g.: if a data provider has an .mp4 file as a source file, the default ('video-service') can be overridden with the value 'video-source'.	
-File use CV list
+|**Object/Component** (Required)|A complex object would have one row listed as 'Object', with its files in the next rows as 'Component' values. A simple object would just have a value of 'Object'. "Component" rows must be in the intended order (DAMS display order is determined by row count).| |'Object' or 'Component'|
+|**File Name**|For simple objects, a file name must be provided. For complex objects, file names must be provided for all of its components and possibly the object.|Used by IT to match resource file to metadata. Files must be copied to \\lib-storage\digital-staging\[*project folder*]. FIle name format is not important for ingest, IT will generate ARKs from the file names.|File extensions must be included.|
+|**File Use**|File Use will normally be left blank, to be later filled in once the system determines its function (determined by filetype/MIMEtype). Sometimes a default value needs to be overwritten, e.g.: if a data provider has an .mp4 file as a source file, the default ('video-service') can be overridden with the value 'video-source'.| |File use CV list|
 
 Unit
 (Required)
