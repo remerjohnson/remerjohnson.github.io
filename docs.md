@@ -48,7 +48,7 @@ v1.5 - Changed wording to be more appropriate for external audiences 02/04/2015
 + **Header Name** (Required) - Item is required for DAMS ingest. Otherwise, item is not necessary for DAMS ingest (thus optional). However, it is recommended to provide that metadata if it exists.
 + **Header Name** (Repeatable) - Item is repeatable. Otherwise, item cannot be repeated (Note: in case of multiple values for an item, see below).
 + If there are multiple instances of a value (e.g. multiple topical subjects), these can either be:
-  + Placed in a single column, with values separated by a "space pipe space" (example: value | value)
+  + Placed in a single column, with values separated by a "space pipe space" (example: value &#124; value)
   + Placed in multiple columns with the same column names.
   + DOMM will ensure these criteria are met.
 
