@@ -1,4 +1,9 @@
-# Excel Input Stream
+---
+layout: page
+title: Excel Input Stream
+permalink: /docs/
+---
+
 ## Summary
 This documentation is a guide for DOMM (Digital Object Metadata Management Unit) and IT as well as external audiences regarding the Excel Standard Input Stream. This input stream is meant to take existing metadata that has been mapped to Excel spreadsheets, and ingest them along with associated files into the UC San Diego Digital Collections. 
 Some tips specifically for DOMM Unit members:  
