@@ -7,7 +7,6 @@ permalink: /docs/
 ## Summary
 This documentation is a guide for DOMM (Digital Object Metadata Management Unit) and IT as well as external audiences regarding the Excel Standard Input Stream. This input stream is meant to take existing metadata that has been mapped to Excel spreadsheets, and ingest them along with associated files into the UC San Diego Digital Collections. 
 Some tips specifically for DOMM Unit members:  
-
 + [The latest version of the Excel Input Stream template/spreadsheet](https://illiad.ucsd.edu:8443/download/attachments/33719826/xls_standard_input_template_2015-01-16.xlsx?version=1&modificationDate=1421423565000&api=v2). If a mapping changes, it is important to inform IT of this in JIRA, and point them to the updated mapping file(s). It's good practice to include the date the mapping was updated in the file name(s), in order to avoid confusion.  It's also important to remove older mappings to avoid versioning issues going forward. It is also possible that IT will modify the mapping document rather than just DOMM, so DOMM and IT should be aware of which document to work from, with JIRA's being the definitive latest document.
 + The excel standard input stream accommodates simple objects and objects with components. Work is being done to support subcomponents for an additional level of hierarchy.
 + Order of components will be taken from the order of the components in the spreadsheet.
@@ -40,10 +39,10 @@ v1.5 - Changed wording to be more appropriate for external audiences 02/04/2015
 ## Ingest Process Workflow
 + Place all files and ingest metadata spreadsheet in the staging area: \\lib-storage\digital-staging
 + Name the spreadsheet like this: xls_standard_input_Ping_2014-12-17.xls
-+ Open a JIRA ticket in the DAMS Ingest Project space: https://lib-jira.ucsd.edu:8443/browse/DI
++ Open a JIRA ticket in the DAMS Ingest Project space: [https://lib-jira.ucsd.edu:8443/browse/DI](https://lib-jira.ucsd.edu:8443/browse/DI)  
   + Attach the spreadsheet to the ticket.
-  + Enter the JIRA ticket description.  
-  
+  + Enter the [JIRA ticket description](https://illiad.ucsd.edu:8443/display/DOMM/JIRA).  
+
 ## Which Items are required? Which items are repeatable?
 + **Header Name** (Required) - Item is required for DAMS ingest. Otherwise, item is not necessary for DAMS ingest (thus optional). However, it is recommended to provide that metadata if it exists.
 + **Header Name** (Repeatable) - Item is repeatable. Otherwise, item cannot be repeated (Note: in case of multiple values for an item, see below).
