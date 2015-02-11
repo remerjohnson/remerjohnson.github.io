@@ -52,10 +52,11 @@ v1.5 - Changed wording to be more appropriate for external audiences 02/04/2015
   + Placed in multiple columns with the same column names.
   + DOMM will ensure these criteria are met.
 
-# The Excel Input Stream Elements
-| Column Header Name	| Description	| Internal | Controlled Values / Format Restrictions |
-| ------------------- | ----------- | -------- | --------------------------------------- |
-| **Object Unique ID** (Required) | An object and its components share the same Object ID. These are usually supplied by the data provider.  It is not mapped to DAMS, but you can copy it in "Identifier:other" if it is useful. | Used by IT to delineate objects from components. Used by DOMM simply to keep track of which things are objects and components visually. If not provided, DOMM must create.
+# The Excel Input Stream Elements  
+
+|Column Header Name|Description|Internal|Controlled Values Format Restrictions|
+|------------------|-----------|--------|-------------------------------------|
+|**Object Unique ID** (Required)|An object and its components share the same Object ID. These are usually supplied by the data provider.  It is not mapped to DAMS, but you can copy it in "Identifier:other" if it is useful.|Used by IT to delineate objects from components. Used by DOMM simply to keep track of which things are objects and components visually. If not provided, DOMM must create.| | 
 
 
 Object/Component
