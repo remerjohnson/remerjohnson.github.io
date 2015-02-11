@@ -60,16 +60,7 @@ v1.5 - Changed wording to be more appropriate for external audiences 02/04/2015
 |**Object/Component** (Required)|A complex object would have one row listed as 'Object', with its files in the next rows as 'Component' values. A simple object would just have a value of 'Object'. "Component" rows must be in the intended order (DAMS display order is determined by row count).| |'Object' or 'Component'|
 |**File Name**|For simple objects, a file name must be provided. For complex objects, file names must be provided for all of its components and possibly the object.|Used by IT to match resource file to metadata. Files must be copied to \\lib-storage\digital-staging\[*project folder*]. FIle name format is not important for ingest, IT will generate ARKs from the file names.|File extensions must be included.|
 |**File Use**|File Use will normally be left blank, to be later filled in once the system determines its function (determined by filetype/MIMEtype). Sometimes a default value needs to be overwritten, e.g.: if a data provider has an .mp4 file as a source file, the default ('video-service') can be overridden with the value 'video-source'.| |File use CV list|
-
-Unit
-(Required)
-Unit identifies a library unit or non-library data provider that is responsible for supplying content to the DAMS, and for administering that content over time.
-The Excel template uses the easy to understand values "RCI/RDCP" and "Library Digital Collections", but these must be change to the appropriate ARK before Object Build.
-
-RCI/RDCP:
-http://library.ucsd.edu/ark:/20775/bb6827300d
-Library Digital Collections: 
-http://library.ucsd.edu/ark:/20775/bb09910635
+|**Unit** (Required)|Unit identifies a library unit or non-library data provider that is responsible for supplying content to the DAMS, and for administering that content over time. The Excel template uses the easy to understand values "RCI/RDCP" and "Library Digital Collections", but these must be change to the appropriate ARK before Object Build.| |RCI/RDCP: [http://library.ucsd.edu/ark:/20775/bb6827300d](http://library.ucsd.edu/ark:/20775/bb6827300d) Library Digital Collections: [http://library.ucsd.edu/ark:/20775/bb09910635](http://library.ucsd.edu/ark:/20775/bb09910635)
 Assembled collection or
 Provenance collection
 (Required) (Repeatable)
