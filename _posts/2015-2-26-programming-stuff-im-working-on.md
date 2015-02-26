@@ -1,0 +1,9 @@
+---
+layout: post
+title: Programming Stuff I'm Working On
+--- 
+In my perpetual quest to start actually programming, I am starting to feel like I'm making progress. In the Fall, I completed yet another Python course, but this time I felt like the material sunk in, and the things I were taught are applicable to things I encounter at work. Like manipulating text files, regular expressions, and using Python libraries in... well, libraries. Using libraries and working with APIs are probably the most important thing I can learn at this point in my career. I rarely would be expected to make a full program, and if I did it would be a pet project.  
+   
+This time around, I'm taking [Beginning Game Programming in C#](https://www.coursera.org/course/gameprogramming) at Coursera. Right away it appears to be more difficult than the Python course, and I am really fortunate to have looked into [PyGame](http://www.pygame.org/news.html) and [Pyglet](http://www.pyglet.org/), 2 Python libraries that help you learn the fundamentals of game design: setting up the game window, setting up the main game loop, changing game states, handling user input, etc. Although it's in C#, a language I am not terribly fond of, the lessons learned will be valuable once I get into [Unity](http://unity3d.com/) or the [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4). I'm also excited for the upcoming possibility of modding existing games once the newer games using newer iterations of engines come out.  
+  
+Besides that, I'll look into doing some Ruby on Rails stuff, and using Ruby to interact with APIs, as those are some other use cases for stuff at work. I'm well past the days of _"I'll learn one language"_. You just have to pick one, dive in, and try to learn the fundamentals that translate to all other programming langauges.  
