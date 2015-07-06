@@ -27,4 +27,4 @@ Also, don't forget to use ```diff``` to be able to compare two different pieces 
 +  **Linux: Atom, Sublime Text, vim, Geany**
 
 IDEs are everywhere, and odds are that if you are already proficient at coding, you have a preferred IDE. Furthermore, certain IDEs tend to work better with certain languages. This is quickly changing as the push for great cross-platform and cross-language IDEs continues. One such new IDE is Atom:  
-[Atom 1.0 with a nice green theme](/images/2015-07-0615:59:32_post01.png)
+![Atom 1.0 with a nice green theme](/images/2015-07-0615:59:32_post01.png)
