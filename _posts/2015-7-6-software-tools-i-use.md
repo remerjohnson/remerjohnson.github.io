@@ -8,8 +8,8 @@ Whenever I talk to non-MARC metadata people outside of my library, invariably we
 For reference, I am running Linux Mint Rebecca, which affects some of the software I choose.  
 
 # Text Editing
-### Windows: Notepad++
-### Linux: Whatever you want (nano, vim, Sublime Text, diff)
+**+ Windows: Notepad++**
+**+ Linux: Whatever you want (nano, vim, Sublime Text, diff)**
 
 Now, I'm going to be one of those people that delineates between text editors and IDEs. Yes, you could have one IDE that handles both, but I tend to run a different tool depending on the task at hand.  
 
@@ -19,8 +19,8 @@ In Linux of course you can just use whatever editor comes with your distro or in
 ```sudo nano filename```  
 to create the file you want and be taken into the editor interface.  
 
-Also, don't forget to use diff to be able to compare two different pieces of text. This is needed a lot in metadata to ensure consistency and accuracy in metadata values.  
+Also, don't forget to use ```diff``` to be able to compare two different pieces of text. This is needed a lot in metadata to ensure consistency and accuracy in metadata values.  
 
 # IDEs, or Integrated Developer Environments
-### Windows: Atom, Sublime Text
-### Linux: Atom, Sublime Text, vim, Geany
+**+ Windows: Atom, Sublime Text**
+**+ Linux: Atom, Sublime Text, vim, Geany**
