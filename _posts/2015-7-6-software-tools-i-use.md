@@ -8,8 +8,8 @@ Whenever I talk to non-MARC metadata people outside of my library, invariably we
 For reference, I am running Linux Mint Rebecca, which affects some of the software I choose.  
 
 # Text Editing
-**+ Windows: Notepad++**
-**+ Linux: Whatever you want (nano, vim, Sublime Text, diff)**
+**+  Windows: Notepad++**
+**+  Linux: Whatever you want (nano, vim, Sublime Text, diff)**
 
 Now, I'm going to be one of those people that delineates between text editors and IDEs. Yes, you could have one IDE that handles both, but I tend to run a different tool depending on the task at hand.  
 
