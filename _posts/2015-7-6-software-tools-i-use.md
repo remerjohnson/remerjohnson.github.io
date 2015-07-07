@@ -73,6 +73,6 @@ There are big sprawling apps when it comes to task management, but I don't see w
 ## Publishing (Documentation, Blogging Software)
 +  **GitHub Pages, ReadTheDocs**
 
-It's no secret I'm a huge fan of GitHub Pages. While it's perfectly suited as a streamlined blogging platform, it can also handle documentation fairly well. Another option for documentation is [ReadTheDocs](https://readthedocs.org/), which will also use a GitHub repository to generate a web page, except it will look really nice as documentation, and you don't have to mess too much with HTML and CSS. You simply drop in your documentation, link it via ReadTheDocus, and voila: it's up.  
+It's no secret I'm a huge fan of GitHub Pages. While it's perfectly suited as a streamlined blogging platform, it can also handle documentation fairly well. Another option for documentation is [ReadTheDocs](https://readthedocs.org/), which will also use a GitHub repository to generate a web page, except it will look really nice as documentation, and you don't have to mess too much with HTML and CSS. You simply drop in your documentation, link it via ReadTheDocs, and voila: it's up.  
 
 What's also great about this is you have a version-controlled document repository that you can serve up to people who want to just get at the source documentation.  
