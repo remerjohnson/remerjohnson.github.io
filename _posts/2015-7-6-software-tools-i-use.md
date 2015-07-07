@@ -11,7 +11,7 @@ For reference, I am running Linux Mint Rebecca, which affects some of the softwa
 +  **Slack, Confluence**
 
 ![Slack](/images/2015-07-06_post02.png)
-  
+
 Sadly, not everyone will be able to use Slack at work. But I'm so glad my library decided to take the plunge. Skype for Business (formerly Lync) just had no buy-in from people, and it didn't succeed in lessening the need for email. While you can never truly get rid of the need for email, Slack handles so much of the communication, file creation and sharing, and link sharing that you can start shaving down email usage.  
 
 The ability to create channels aimed at certain people on the fly also gives some purpose and structure to the communication, and makes it feel less like an 'anything goes' chat. I really cannot recommend Slack enough.  
@@ -48,7 +48,11 @@ Since Atom was made by GitHub, it has very good GitHub integration. Changed file
 ## Metadata / Data Cleaning
 +  **OpenRefine**
 
-I've harped on endlessly about OpenRefine, formerly Google Refine. At least in the library world, there is no real competitor when it comes to data cleaning. The problem with trying to clean data in Excel
+I've harped on endlessly about OpenRefine, formerly Google Refine. At least in the library world, there is no real competitor when it comes to data cleaning. The problem with trying to clean data in Excel is that:  
++  Find and Replace is not robust enough to be efficient with large replacements
++  You have to know what you're looking for to find things!
+
+OpenRefine groups and clusters things in a way that makes it obvious to spot errors that would be impossible to notice even when looking at an Excel file line by line. Metadata accuracy is very important when it comes to turning strings into things in the spirit of Linked Data, so data cleanup becomes mandatory.
 
 ## Note Taking Software
 +  **Windows: Evernote (web client and application)**
@@ -61,7 +65,14 @@ I use Evernote, even though it doesn't have a dedicated Linux application. I've 
 ## Task and Productivity Software
 +  **GTasks, Evernote, Slack**
 
+I like GTasks as a task app because of how simple it is. I can have my phone near me that pops up reminders for tasks that may or may not be work related. Done.  
 
+Slack interestingly has a /remind command that works well, also. It's good for when you're already in Slack, and you just set what time you want the reminder to ding, and what the reminder message will be.  
+There are big sprawling apps when it comes to task management, but I don't see why I should spend more time and money on something that should be as quick as possible. Taking too much time to enter a task usually results in me not recording the task in the first place.
 
 ## Publishing (Documentation, Blogging Software)
 +  **GitHub Pages, ReadTheDocs**
+
+It's no secret I'm a huge fan of GitHub Pages. While it's perfectly suited as a streamlined blogging platform, it can also handle documentation fairly well. Another option for documentation is [ReadTheDocs](https://readthedocs.org/), which will also use a GitHub repository to generate a web page, except it will look really nice as documentation, and you don't have to mess too much with HTML and CSS. You simply drop in your documentation, link it via ReadTheDocus, and voila: it's up.  
+
+What's also great about this is you have a version-controlled document repository that you can serve up to people who want to just get at the source documentation.  
