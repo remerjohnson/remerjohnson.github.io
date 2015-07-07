@@ -3,9 +3,20 @@ layout: post
 title: Software Tools That I Use
 ---
 
-Whenever I talk to non-MARC metadata people outside of my library, invariably we come to a point where we get specific about what software we use. Well, let me back up: first we might complain about Windows and how much better Mac OSX and Linux are, but *then* we move onto software. I realized that there's so many choices and personal decisions involved that I would just post a list of what I use and maybe that will help someone, or at least pique their curiosity.  
+Whenever I talk to non-MARC metadata people outside of my library, invariably we come to a point where we get specific about what software we use. Well, let me back up: first we might complain about Windows and how much better Mac OSX and Linux are, but *then* we move on to software. I realized that there's so many choices and personal decisions involved that I would just post a list of what I use and maybe that will help someone, or at least pique their curiosity.  
 
 For reference, I am running Linux Mint Rebecca, which affects some of the software I choose.  
+
+## Team Communication
++  **Slack, Confluence**
+
+![Slack](/images/2015-07-06_post02.png)
+  
+Sadly, not everyone will be able to use Slack at work. But I'm so glad my library decided to take the plunge. Skype for Business (formerly Lync) just had no buy-in from people, and it didn't succeed in lessening the need for email. While you can never truly get rid of the need for email, Slack handles so much of the communication, file creation and sharing, and link sharing that you can start shaving down email usage.  
+
+The ability to create channels aimed at certain people on the fly also gives some purpose and structure to the communication, and makes it feel less like an 'anything goes' chat. I really cannot recommend Slack enough.  
+
+Confluence is... meh. It's good for making wikis, but I find myself not needing wikis for anything besides recording meeting notes. Or for getting some internal processes outlined. The problem with Confluence in general is it's not portable at all, unless exporting to PDF or Word is your idea of 'portable.'
 
 ## Text Editing
 +  **Windows: Notepad++**
@@ -26,5 +37,31 @@ Also, don't forget to use ```diff``` to be able to compare two different pieces 
 +  **Windows: Atom, Sublime Text**
 +  **Linux: Atom, Sublime Text, vim, Geany**
 
-IDEs are everywhere, and odds are that if you are already proficient at coding, you have a preferred IDE. Furthermore, certain IDEs tend to work better with certain languages. This is quickly changing as the push for great cross-platform and cross-language IDEs continues. One such new IDE is Atom:  
+IDEs are everywhere, and odds are that if you are already proficient at coding, you have a preferred IDE. Furthermore, certain IDEs tend to work better with certain languages. A good example is that people proficient in R undoubtedly use R-Studio as an IDE.  
+
+There has been a push lately for great cross-platform and cross-language IDEs, however. One such new IDE is Atom:  
+
 ![Atom 1.0 with a nice green theme](/images/2015-07-0615:59:32_post01.png)
+
+Since Atom was made by GitHub, it has very good GitHub integration. Changed files will be highlighted (reminding you to commit them), the current branch will be indicated, etc. And because there are so many packages, you can easily mimic other IDEs, or install better support (like syntax highlighting) for your preferred languages. In general, it is the most malleable modern IDE and it works well on any OS.
+
+## Metadata / Data Cleaning
++  **OpenRefine**
+
+I've harped on endlessly about OpenRefine, formerly Google Refine. At least in the library world, there is no real competitor when it comes to data cleaning. The problem with trying to clean data in Excel
+
+## Note Taking Software
++  **Windows: Evernote (web client and application)**
++  **Linux: Evernote web client**
+
+Much like IDEs, note taking software can get pretty partisan. If you are sticking to only Windows, then OneNote seems like a good choice, *but* keep in mind that a big feature of OneNote is collaborative note-taking, and so if only one person on the team has a Mac, they are stuck using the web client version, which is pretty clunky. Of course the numerous options in Google Drive are good alternative if the team has different types of machines but need to collaborate.  
+
+I use Evernote, even though it doesn't have a dedicated Linux application. I've just never stuck with any other note taking software, and the phone app is too handy for making short personal lists that I have no urge to find greener pastures.  
+
+## Task and Productivity Software
++  **GTasks, Evernote, Slack**
+
+
+
+## Publishing (Documentation, Blogging Software)
++  **GitHub Pages, ReadTheDocs**
