@@ -50,7 +50,7 @@ Since Atom was made by GitHub, it has very good GitHub integration. Changed file
 ## Metadata / Data Cleaning
 +  **OpenRefine**
 
-I've harped on endlessly about OpenRefine, formerly Google Refine. At least in the library world, there is no real competitor when it comes to data cleaning. The problem with trying to clean data in Excel is that:  
+I've harped on endlessly about OpenRefine, formerly Google Refine. At least in the library world, there is no real competitor when it comes to data cleaning. The problem with trying to clean data in Excel is that:
 +  Find and Replace is not robust enough to be efficient with large replacements
 +  You have to know what you're looking for to find things!
 
