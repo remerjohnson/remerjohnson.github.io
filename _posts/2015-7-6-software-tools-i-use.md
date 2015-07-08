@@ -11,6 +11,7 @@ For reference, I am running Linux Mint Rebecca, which affects some of the softwa
 +  **Slack, Confluence**
 
 ![Slack](/images/2015-07-06_post02.png)
+{: .center}
 
 Sadly, not everyone will be able to use Slack at work. But I'm so glad my library decided to take the plunge. Skype for Business (formerly Lync) just had no buy-in from people, and it didn't succeed in lessening the need for email. While you can never truly get rid of the need for email, Slack handles so much of the communication, file creation and sharing, and link sharing that you can start shaving down email usage.  
 
@@ -42,6 +43,7 @@ IDEs are everywhere, and odds are that if you are already proficient at coding, 
 There has been a push lately for great cross-platform and cross-language IDEs, however. One such new IDE is Atom:  
 
 ![Atom 1.0 with a nice green theme](/images/2015-07-0615:59:32_post01.png)
+{: .center}
 
 Since Atom was made by GitHub, it has very good GitHub integration. Changed files will be highlighted (reminding you to commit them), the current branch will be indicated, etc. And because there are so many packages, you can easily mimic other IDEs, or install better support (like syntax highlighting) for your preferred languages. In general, it is the most malleable modern IDE and it works well on any OS.
 
