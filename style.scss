@@ -192,11 +192,11 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $blue;
   cursor: pointer;
   font-family: $helveticaNeue; 
   font-weight: 300;
-  font-size: 28px;
+  font-size: 32px;
   letter-spacing: 1px;
 }
 
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $blue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
