@@ -42,7 +42,7 @@ IDEs are everywhere, and odds are that if you are already proficient at coding, 
 
 There has been a push lately for great cross-platform and cross-language IDEs, however. One such new IDE is Atom:  
 
-![Atom 1.0 with a nice green theme](/images/2015-07-0615:59:32_post01.png)
+![Atom 1.0 with a nice green theme](/images/2015-07-06_post1.png)
 {: .center}
 
 Since Atom was made by GitHub, it has very good GitHub integration. Changed files will be highlighted (reminding you to commit them), the current branch will be indicated, etc. And because there are so many packages, you can easily mimic other IDEs, or install better support (like syntax highlighting) for your preferred languages. In general, it is the most malleable modern IDE and it works well on any OS.
