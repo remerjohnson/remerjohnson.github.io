@@ -10,8 +10,9 @@ But if you want to combine powerful scripting functions with a visual interface 
 
 ## Installation
 Although it runs in a browser window, OpenRefine is not a web service, and needs to be installed as a program. It can be found at a couple different sources:  
-+ The OpenRefine Web site: [http://openrefine.org/](http://openrefine.org/)
-+ OpenRefine GitHub repo: [https://github.com/OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)
+
++ The OpenRefine Web site: [http://openrefine.org/](http://openrefine.org/)  
++ OpenRefine GitHub repo: [https://github.com/OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)  
 
 The simplest way to install it on a Windows machine is to go to the [Downloads](http://openrefine.org/download.html) page on the OpenRefine site and selecting the Windows installer version called the 'Windows kit'.  
 
@@ -90,13 +91,17 @@ Digital Object Metadata Management Unit > OpenRefine Documentation and Tutorial 
 
 
 ## Additional Resources
-For a helpful resource on a librarian's perspective on OpenRefine, see: http://acrl.ala.org/techconnect/?p=3276
-A great blog post on the overall utility of OpenRefine: Using OpenRefine to Perform Text Mining On Your Data
-For the full OpenRefine Documentation, visit the GitHub Documentation. Pro Tip: install this Google Chrome extension that will enable you to search GitHub wikis.
-Extensions
-RDF Refine - An essential extension, this allows you to import RDF vocabularies, reconcile against SPARQL endpoints or RDF dumps, and more.
-Named Entity Recognition (NER) - A service to utilize other services in order to recognize and extract entities from unstructured data (like Description fields). Allows configuration using API keys.
-Refine Stats - Allows you to quickly run stats on a column of data using OpenRefine's existing filters.
-Alternatives
-RStudio - An application (technically an IDE) built around the R statistical package, RStudio adds new features constantly that can handle data similarly to OpenRefine: RStudio Data Viewer Improvements
-Karma - A 'data integration tool' that allows for inferencing and matching data to ontologies, as well as many other features.
++ [A librarian's perspective on OpenRefine](http://acrl.ala.org/techconnect/?p=3276)
++ [GoogleRefine Youtube channel](https://www.youtube.com/channel/UCqwSVsJ8CWD9pQUZDbJC1ew)  
++ A great blog post on the overall utility of OpenRefine: Using OpenRefine to Perform Text Mining On Your Data  
++ For the full OpenRefine Documentation, visit the GitHub Documentation. Pro Tip: install this Google Chrome extension that will enable you to search GitHub wikis.  
+
+## Extensions
+
++ RDF Refine - An essential extension, this allows you to import RDF vocabularies, reconcile against SPARQL endpoints or RDF dumps, and more.
++Named Entity Recognition (NER) - A service to utilize other services in order to recognize and extract entities from unstructured data (like Description fields). Allows configuration using API keys.  
++ Refine Stats - Allows you to quickly run stats on a column of data using OpenRefine's existing filters.  
+
+## Alternatives
++ RStudio - An application (technically an IDE) built around the R statistical package, RStudio adds new features constantly that can handle data similarly to OpenRefine: RStudio Data Viewer Improvements  
++ Karma - A 'data integration tool' that allows for inferencing and matching data to ontologies, as well as many other features.  
