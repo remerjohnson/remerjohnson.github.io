@@ -71,11 +71,11 @@ There are other methods that clustering can use than the default 'key collision'
 
 Some Handy GREL Recipes:
 Capitalizing only the first character of an entire (possibly multi-word) value:
-`toUppercase(cell.value[0])+substring(cell.value, 1)`
+`toUppercase(cell.value[0])+substring(cell.value, 1)`  
 
 ### Step 2: Reconciliation
-Linked Data sources
-----
+Linked Data sources  
+
 ## A Word About APIs
 Reconciling against Linked Data sources is great, but not all or even most of the data on the Internet is structured and accessible via a SPARQL endpoint. RESTful APIs, or Application Programming Interfaces, remain a viable method to retrieve data from resources. Luckily, OpenRefine supports importing data using API calls, based on the data that exists in your sheet.
 First, think of the column you want, and then find the API of the service you want. Examples in the library world would be VIAF for names, LCSH for subject headings, or GeoNames for geographic information. But there are many more!
