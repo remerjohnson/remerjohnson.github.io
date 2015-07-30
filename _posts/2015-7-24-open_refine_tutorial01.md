@@ -25,7 +25,11 @@ For most uses, the 'stable' version will suffice. If you wish to contribute to t
 ## Getting Started Using OpenRefine
 Once you install and open the program, there will be some terminal activity but it doesn't need to be interacted with, and will only periodically give status updates for the program (you'll see basic REST calls and extension reports). Everything takes place in a browser window, which will launch on your default browser (fair warning: this won't work with Internet Explorer). In fact, you can have multiple instances running by opening extra browser tabs.  
 
-Choose 'Create Project' to get started (once a project has been created, you would select 'Open Project' to get into your existing project). As you can see, OpenRefine supports a wide variety of file formats, and can handle more through the use of extensions. OpenRefine will then show you a preview of the data, and will ask how you want the data to be parsed. For example, you can specify on how blanks and nulls get interpreted, and whether the first row is a header or contains data. You may then create the project.  
+One Refine is opened, you're asked if you want to Create, Open, or Import a Project.  
+
+Choose 'Create Project' to get started (once a project has been created, you would select 'Open Project' to get into your existing project). As you can see, OpenRefine supports a wide variety of file formats, and can handle more through the use of extensions. By default you can use TSV, CSF, \*SV, Excel (.xls .xlsx), JSON, XML, RDF as XML, or Google Data documents.  
+
+OpenRefine will then show you a preview of the data, and will ask how you want the data to be parsed. For example, you can specify on how blanks and nulls get interpreted, and whether the first row is a header or contains data. You may then create the project.  
 
 Once created, you will see the imported data. You are now ready to dive in and manipulate the data!  
 
