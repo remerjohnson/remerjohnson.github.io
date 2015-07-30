@@ -4,9 +4,8 @@ title: An OpenRefine Tutorial, Part 1
 ---
 
 ## Introduction to OpenRefine
-There are a lot of ways to clean tabular data files. Excel has formulas, Find & Replace, and other useful features. Programming scripts, utilities like csvkit, and code libraries can accomplish similar tasks with text manipulation using regular expressions, and have the additional advantage of iterative looping and conditional statements (if/then, for/each, etc.).  
-
-But if you want to combine powerful scripting functions with a visual interface for data cleanup, as well as the ability to reconcile metadata to Linked Data sources, OpenRefine is an excellent tool. It was previously known as GoogleRefine, but Google has since turned the project over to the open source community.  
+There are a lot of ways to clean tabular data files. Excel has formulas, Find & Replace, and other useful features. Programming scripts, utilities like csvkit, and code libraries can accomplish similar tasks with text manipulation using regular expressions, and have the additional advantage of iterative looping and conditional statements (if/then, for/each, etc.).
+But if you want to combine powerful scripting functions with a visual interface for data cleanup, as well as the ability to reconcile metadata to Linked Data sources, OpenRefine is an excellent tool. It was previously known as GoogleRefine, but Google has since turned the project over to the open source community. GitHub has some [screencasts](https://github.com/OpenRefine/OpenRefine/wiki/Screencasts) from an older version of GoogleRefine, but it remains a good high level overview of the 'how and why' of OpenRefine.  
 
 Although OpenRefine serves my particular work needs, since I deal with a large amount of tabular data that I did not author and need to clean, OpenRefine can be broadly used in the data lifecycle after the acquisition of data.  
 

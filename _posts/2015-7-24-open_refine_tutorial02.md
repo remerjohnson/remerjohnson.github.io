@@ -4,12 +4,11 @@ title: An OpenRefine Tutorial, Part 2
 ---
 
 ## Facets and Filters
-Facets and filters are the main method of using OpenRefine on data. They allow you to take temporary slices of the data, and from there you can perform a variety of actions on that subset of data, all while being able to see that slice visually. GitHub has some screencasts from an older version of GoogleRefine, but it remains a good high level overview of the 'how and why' of OpenRefine.  
+Facets and filters are the main method of using OpenRefine on data. They allow you to take temporary slices of the data, and from there you can perform a variety of actions on that subset of data, all while being able to see that slice visually.
 
-These slices are temporary, and are basically 'views' that you can isolate, and as you close facets, you will return to the original data.
-Even changes have a clear trail, so that you can revert to previous states of the data:  
+Facets are basically 'views' of the data that you can isolate, and as you close facets, you will return to the original overview of the data. Even if you do make changes at this point, changes have a clear trail, so that you can revert to previous states of the data.  
 
-Digital Object Metadata Management Unit > OpenRefine Documentation and Tutorial > OpenRefine010.png  
+![undo history](http://pushthings4ward.com/img/2013/02/google_refine_doppelte_zeilen_loeschen_07.png)
 
 As a simple scenario, let's say we want to check if a column has any blank values. First we need to select the Title column by clicking the down arrow next to the column header. A menu that presents a 'Facet' choice will display, and hovering over that, we see choices for what kind of facet we want. Since this is a text column, we'll select 'Text facet':
 
