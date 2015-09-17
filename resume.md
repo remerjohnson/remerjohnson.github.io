@@ -12,7 +12,7 @@ Originally from Los Angeles, Ryan received his Master's from Syracuse University
 
 ## Experience
 
-+ Metadata and Data Curation Specialist, UC San Diego
++ Metadata and Data Curation Specialist, UC San Diego  
 _2014 - current_  
 
 As a member of the Digital Object Metadata Management Unit, I clean, map, and transform metadata from data providers to align with the data model of our DAMS (Digital Asset Management System). I am the Metadata Analyst on about a dozen digital collections, ranging from Special Collections papers to protein sequencing analysis. I helped to refine and plan new data models for the DAMS that better take advantage of Linked Data, best practices, and decisions that the larger metadata community have agreed upon. I also contributed to the stramlining of the process of getting digital collections published, which went from the average of many months (sometimes a year) to weeks, through planning and collaborating with IT to develop ingest tools.  
@@ -29,5 +29,5 @@ _2010-2012_
 
 ## Other Professional Activities
 
-+ Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin (Feb. 2016) [Amazon link](http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656)
++ [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin]((http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656)) (Feb. 2016)    
 I helped copy edit and add content to each chapter in the book.  
