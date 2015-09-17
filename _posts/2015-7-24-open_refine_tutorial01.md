@@ -22,9 +22,9 @@ Alternatively, if you are familiar and comfortable with GitHub, it can be downlo
 For most uses, the 'stable' version will suffice. If you wish to contribute to the code, you can download the more recent 'developer' version.  
 
 ## Getting Started Using OpenRefine
-Once you install and open the program, there will be some terminal activity but it doesn't need to be interacted with, and will only periodically give status updates for the program (you'll see basic REST calls and extension reports). Everything takes place in a browser window, which will launch on your default browser (fair warning: this won't work with Internet Explorer). In fact, you can have multiple instances running by opening extra browser tabs.  
+Once you install and open the program, there will be some terminal activity but it doesn't need to be interacted with, and will only periodically give status updates for the program (you'll see basic calls and extension reports). Everything takes place in a browser window, which will launch on your default browser (fair warning: this won't work with Internet Explorer). In fact, you can have multiple instances running by opening extra browser tabs.  
 
-One Refine is opened, you're asked if you want to Create, Open, or Import a Project.  
+Once Refine is opened, you're asked if you want to Create, Open, or Import a Project.  
 
 Choose 'Create Project' to get started (once a project has been created, you would select 'Open Project' to get into your existing project). As you can see, OpenRefine supports a wide variety of file formats, and can handle more through the use of extensions. By default you can use TSV, CSF, \*SV, Excel (.xls .xlsx), JSON, XML, RDF as XML, or Google Data documents.  
 
