@@ -48,22 +48,22 @@ The next step is to base a column on that JSON data, using GREL to isolate only 
 
 ## Entity Extraction
 
-It can be a bit difficult delineating between reconciliation and entity extraction. But let's not get too involved with that, because this will specifically deal with using the [Named Entity Recognition extension](http://freeyourmetadata.org/named-entity-extraction/) from Free Your Metadata. In this case, we don't have to structure our API calls because the server is already expecting a certain type of request. Instead, we need to set up the service initially, adding an API key if needed, and setting some parameters.  
+It can be a bit difficult delineating between reconciliation and entity extraction. But let's not get too involved with that, because this will specifically deal with using the [Named Entity Recognition extension](http://freeyourmetadata.org/named-entity-extraction/) from Free Your Metadata. In this case, we don't have to structure API calls because the server is already expecting a certain type of request. Instead, we need to set up the service initially, adding an API key if needed, and setting some parameters. Most sites will have some sort of simple API request process.  
 
-Since we're heading into the realm of semantics, most services will need a confidence value. This means you are telling the machine whether to be lazy or very stringent in the results it returns for recognizing your data. Obviously, if you tell the service to be 90% (.9) sure that a value matches, it will return far fewer results than a lower confidence score. In the end, you will likely need to do some manual review of the matches to tell OpenRefine which matches are acceptable.  
+Since we're heading into the realm of semantics, most services will need a confidence value. This means you are telling the machine whether to be lazy or very stringent in the results it returns for recognizing your data. Obviously, if you tell the service to be 90% (.9) sure that a value matches, it will return far fewer results than a lower confidence score, but the results tend to be accurate and require less manual review. Ultimately, you will likely need to do *some* manual review of the matches to tell OpenRefine which matches are acceptable. You must determine the tradeoff between both approaches.   
 
 ## Additional Resources
 + [A librarian's perspective on OpenRefine](http://acrl.ala.org/techconnect/?p=3276)
 + [GoogleRefine Youtube channel](https://www.youtube.com/channel/UCqwSVsJ8CWD9pQUZDbJC1ew)  
-+ A great blog post on the overall utility of OpenRefine: Using OpenRefine to Perform Text Mining On Your Data  
-+ For the full OpenRefine Documentation, visit the GitHub Documentation. Pro Tip: install this Google Chrome extension that will enable you to search GitHub wikis.  
++ A great blog post on the overall utility of OpenRefine: [Using OpenRefine to Perform Text Mining On Your Data](http://blog.spaziodati.eu/en/2014/07/24/using-openrefine-to-perform-text-mining-on-your-data-food-for-thoughts/)  
++ For the full OpenRefine Documentation, visit the [GitHub Documentation](https://github.com/OpenRefine/OpenRefine/wiki). Pro Tip: install [this Google Chrome extension](https://chrome.google.com/webstore/detail/github-wiki-search/gdifdhnjmjaidbajhapmbcbnoocoeooc) that will enable you to search GitHub wikis.  
 
 ## Extensions
 
-+ RDF Refine - An essential extension, this allows you to import RDF vocabularies, reconcile against SPARQL endpoints or RDF dumps, and more.
-+ Named Entity Recognition (NER) - A service to utilize other services in order to recognize and extract entities from unstructured data (like Description fields). Allows configuration using API keys.  
-+ Refine Stats - Allows you to quickly run stats on a column of data using OpenRefine's existing filters.  
++ [RDF Refine](http://lab.linkeddata.deri.ie/2010/grefine-rdf-extension/) - An essential extension, this allows you to import RDF vocabularies, reconcile against SPARQL endpoints or RDF dumps, and more.
++ [Named Entity Recognition](http://software.freeyourmetadata.org/ner-extension/) (NER) - A service to utilize other services in order to recognize and extract entities from unstructured data (like Description fields). Allows configuration using API keys.  
++ [Refine Stats](https://github.com/OpenRefine/refine-stats) - Allows you to quickly run stats on a column of data using OpenRefine's existing filters.  
 
 ## Alternatives
-+ RStudio - An application (technically an IDE) built around the R statistical package, RStudio adds new features constantly that can handle data similarly to OpenRefine: RStudio Data Viewer Improvements  
-+ Karma - A 'data integration tool' that allows for inferencing and matching data to ontologies, as well as many other features.  
++ [RStudio](https://www.rstudio.com/) - Built around the R statistical package, RStudio adds new features constantly that can handle data similarly to OpenRefine: [RStudio Data Viewer](https://support.rstudio.com/hc/en-us/articles/205175388-Using-the-Data-Viewer)
++ [Karma](https://usc-isi-i2.github.io/karma/) - A 'data integration tool' that allows for inferencing and matching data to ontologies, as well as many other features.  
