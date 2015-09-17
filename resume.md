@@ -31,3 +31,13 @@ _2010-2012_
 
 + [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin]((http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656)) (Feb. 2016)    
 I helped copy edit and add content to each chapter in the book.  
+
+
+## Skills and expertise
+
++ Expertise in multiple metadata standards, including MODS, MADS, METS, RDF/XML, EAD, schema.org, as well as knowledge of application profiles  
++ Linked Data  
++ Data cleaning  
++ Data transformation through OpenRefine, APIs, SPARQL queries, and XSL-T  
++ Creating static web pages for documentation via GitHub Pages and ReadTheDocs, harnessing Jekyll, Markdown, GitHub, etc.  
++ File management and version control software, especially as it relates to data management    
