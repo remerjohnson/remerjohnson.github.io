@@ -29,7 +29,7 @@ _2010-2012_
 
 ## Other Professional Activities
 
-+ [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin]((http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656)) (Feb. 2016)    
++ [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin](http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656) (Feb. 2016)    
 I helped copy edit and add content to each chapter in the book.  
 
 
