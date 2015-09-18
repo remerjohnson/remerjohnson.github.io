@@ -24,8 +24,15 @@ For context, the UC San Diego DAMS is composed of a triplestore backend (current
 ## Education
 
 + Syracuse University  
-M.S., Library and Information Science (2012)
+M.S., Library and Information Science (2012)  
 _2010-2012_  
+
++ California State University, Northridge  
+B.A., Interdisciplinary Humanities  
+_2008-2009_  
+
++ University of California, Santa Barbara   
+_2000-2005_  
 
 ## Other Professional Activities
 
