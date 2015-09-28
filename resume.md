@@ -12,12 +12,15 @@ Originally from Los Angeles, Ryan received his Master's from Syracuse University
 
 ## Experience
 
-+ Metadata and Data Curation Specialist, UC San Diego  
++ Metadata Librarian and Data Curation Specialist, UC San Diego  
 _2014 - current_  
 
 As a member of the Digital Object Metadata Management Unit, I clean, map, and transform metadata from data providers to align with the data model of our DAMS (Digital Asset Management System). I am the Metadata Analyst on about a dozen digital collections, ranging from Special Collections papers to protein sequencing analysis. I helped to refine and plan new data models for the DAMS that better take advantage of Linked Data, best practices, and decisions that the larger metadata community have agreed upon. I also contributed to the stramlining of the process of getting digital collections published, which went from the average of many months (sometimes a year) to weeks, through planning and collaborating with IT to develop ingest tools.  
 
 For context, the UC San Diego DAMS is composed of a triplestore backend (currently undergoing a transition to Fedora), Hydra, Blacklight and Solr. The metadata I most commonly work with is RDF/XML.  
+
++ Metadata Assistant, Hamilton College  
+_2011-2013_  
 
 
 
@@ -27,7 +30,7 @@ For context, the UC San Diego DAMS is composed of a triplestore backend (current
 M.S., Library and Information Science (2012)  
 _2010-2012_  
 
-+ California State University, Northridge  
++ California State University, Northridge (2009)  
 B.A., Interdisciplinary Humanities  
 _2008-2009_  
 
@@ -39,12 +42,17 @@ _2000-2005_
 + [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin](http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656) (Feb. 2016)    
 I helped copy edit and add content to each chapter in the book.  
 
-
-## Skills and expertise
+## Technical Skills and Expertise
 
 + Expertise in multiple metadata standards, including MODS, MADS, METS, RDF/XML, EAD, schema.org, as well as knowledge of application profiles  
-+ Linked Data  
-+ Data cleaning  
-+ Data transformation through OpenRefine, APIs, SPARQL queries, and XSL-T  
++ Experience creating metadata standards, application profiles, and data modeling  
++ Knowledge of Linked Data methods   
++ Data cleaning and metadata enrichment  
++ Data transformation through OpenRefine, APIs (parsing JSON and HTML), SPARQL queries, and XSL-T  
++ Basic scripting and regular expression knowledge (Python, shell)  
 + Creating static web pages for documentation via GitHub Pages and ReadTheDocs, harnessing Jekyll, Markdown, GitHub, etc.  
 + File management and version control software, especially as it relates to data management    
++ Basic LAMP server administration  
++ Experience in the Fedora, Islandora, Drupal stack  
++ Digitization and scanning experience  
++ Database administration experience (MySQL, SQL Server)  
