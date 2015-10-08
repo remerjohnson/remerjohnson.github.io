@@ -71,6 +71,7 @@ I use Evernote, even though it doesn't have a dedicated Linux application. I've 
 I like GTasks as a task app because of how simple it is. I can have my phone near me that pops up reminders for tasks that may or may not be work related. Done.  
 
 Slack interestingly has a /remind command that works well, also. It's good for when you're already in Slack, and you just set what time you want the reminder to ding, and what the reminder message will be.  
+
 There are big sprawling apps when it comes to task management, but I don't see why I should spend more time and money on something that should be as quick as possible. Taking too much time to enter a task usually results in me not recording the task in the first place.
 
 ## Publishing (Documentation, Blogging Software)
