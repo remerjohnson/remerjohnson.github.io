@@ -12,7 +12,7 @@ Originally from Los Angeles, Ryan received his Master's from Syracuse University
 
 ## Experience
 
-+ Metadata Librarian and Data Curation Specialist, UC San Diego  
+### Metadata Librarian and Data Curation Specialist, UC San Diego  
 _2014 - current_  
 
 As a member of the Digital Object Metadata Management Unit in the Geisel Library, I clean, map, and transform metadata from data providers to align with the data model of our DAMS (Digital Asset Management System). I am the Metadata Analyst on about a dozen digital collections, ranging from Special Collections papers to protein sequencing analysis research. I helped to refine and plan new data models for the DAMS that better take advantage of Linked Data, best practices, and decisions that communities (for example the Hydra and Fedora communities) have agreed upon.  
@@ -21,16 +21,16 @@ I also helped streamline digital collection publication, which went from a proje
 
 For context, the UC San Diego DAMS is composed of a triplestore backend (currently undergoing a transition to Fedora 4), Hydra, Blacklight and Solr. The metadata I most commonly work with is serialized in RDF/XML, but I am comfortable in many different serializations of RDF.  
 
-+ Metadata Assistant, Hamilton College  
+### Metadata Assistant, Hamilton College  
 _2011-2013_  
 
 As part of the [Digital Humanities Initiative](http://www.dhinitiative.org/) (DHi), I provided metadata expertise to faculty's Digital Humanities projects, which included work with MODS, RDF/XML, and encoding text into [TEI](http://www.tei-c.org/index.xml). Hamilton was one of the early adopters of [Islandora](http://islandora.ca/) and the Fedora/Islandora/Drupal stack. I helped develop metadata entry forms, based on an Islandora module, aimed at researchers for self-deposit of their metadata, which required XPath/XQuery knowledge and collaboration with the Islandora community.   
 
-+ Metadata Assistant, Cornell Institute for Social and Economic Research (CISER)  
+### Metadata Assistant, Cornell Institute for Social and Economic Research (CISER)  
 _Summer 2011_  
 As an internship, I was tasked with providing metadata for CISER's burgeoning [online data portal](http://ciser.cornell.edu/). Harnessing the physical codebooks on site, and reconciling to online sources like [ICPSR](http://www.icpsr.umich.edu/). During my short internship, I vastly increased the amount of metadata present in the repository.  
 
-+ Quality Assurance Tester, PC Games Division, THQ Inc.  
+### Quality Assurance Tester, PC Games Division, THQ Inc.  
 _2006-2007_  
 As a quality assurance tester for the now-defunct video games publisher THQ, I tested PC games and logged any errors in a database, taking note of local environment and steps to reproduce the bugs. During crunch times, I worked overtime and even doubletime in order to meet publishing deadlines. I was offered a permanent position, but declined in order to return to my education.  
 
