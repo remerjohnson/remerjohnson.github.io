@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Resume
+title:
 permalink: /resume/
 ---
 
-## Background
+# Background
 
 Ryan E. Johnson is a Metadata and Data Curation Specialist with UC San Diego's Geisel Library. He works on the metadata for digital collection in the [UC San Diego Digital Collections](http://library.ucsd.edu/dc/), also known as the DAMS (Digital Asset Management System). Besides working with Special Collections and the Digital Library Programs, he is a member of the Research Data Curation Program, where he provides expertise in metadata and solicits information from UCSD researchers about their data.  
 
 Originally from Los Angeles, Ryan received his Master's from Syracuse University in Library and Information Science, with a specialization in Digital Libraries. While currently preoccupied with the world of metadata, he is interested in data cleaning and transformation, addressing the challenges of publishing Linked Data, and collaborating with library information technology professionals to build software that provides users with excellent information.  
 
-## Experience
+# Experience
 
 ### Metadata Librarian and Data Curation Specialist, UC San Diego  
 _2014 - current_  
@@ -34,7 +34,7 @@ As an internship, I was tasked with providing metadata for CISER's burgeoning [o
 _2006-2007_  
 As a quality assurance tester for the now-defunct video games publisher THQ, I tested PC games and logged any errors in a database, taking note of local environment and steps to reproduce the bugs. During crunch times, I worked overtime and even doubletime in order to meet publishing deadlines. I was offered a permanent position, but declined in order to return to my education.  
 
-## Education
+# Education
 
 + Syracuse University  
 M.S., Library and Information Science (2012)  
@@ -47,12 +47,12 @@ _2008-2009_
 + University of California, Santa Barbara   
 _2000-2005_  
 
-## Other Professional Activities
+# Other Professional Activities
 
 + [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin](http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656) (coming Feb. 2016)    
 I helped copy edit and add content to each chapter in the book.  
 
-## Technical Skills and Expertise
+# Technical Skills and Expertise
 
 + Expertise in multiple metadata standards, including MODS, MADS, METS, RDF/XML, EAD, schema.org, as well as knowledge of application profiles  
 + Experience creating metadata standards, application profiles, and data modeling  
