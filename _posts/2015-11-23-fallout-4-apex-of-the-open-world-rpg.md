@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fallout 4: The Apex of the Open World RPG
+title: Fallout 4 - The Apex of the Open World RPG
 ---
 
 Whenever a massively hyped game like *Fallout 4* comes out, our jaded selves can forget that there are a whole lot of people out there who have never played a *Fallout* game. Going even further, there are many who have only played from *Fallout 3* onward, which are the 'modern' *Fallout* games. The lore, what is 'normal', and the legacy of past systems is easily taken for granted by series veterans.    
