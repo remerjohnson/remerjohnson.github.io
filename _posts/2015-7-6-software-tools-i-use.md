@@ -28,9 +28,11 @@ Now, I'm going to be one of those people that delineates between text editors an
 For very simple text editing and diffing in Windows, Notepad++ just covers it all. It's very simple to drop text into there and manipulate it, diff it, and paste it back somewhere else. You can use an IDE if you want, but it's a bit overkill for most of these mundane tasks.  
 
 In Linux of course you can just use whatever editor comes with your distro or install new ones, then use a typical sudo at the command line (this example will make a new file called 'filename' in nano):  
-```
+
+~~~ shell
+# Create a new file 'filename' using nano editor:
 sudo nano filename
-```  
+~~~  
 
 Also, don't forget to use ```diff``` to be able to compare two different pieces of text. This is needed a lot in metadata to ensure consistency and accuracy in metadata values.  
 
