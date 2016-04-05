@@ -28,11 +28,11 @@ As part of the [Digital Humanities Initiative](http://www.dhinitiative.org/) (DH
 
 **Metadata Assistant, Cornell Institute for Social and Economic Research (CISER)**  
 _Summer 2011_  
-As an internship, I was tasked with providing metadata for CISER's burgeoning [online data portal](http://ciser.cornell.edu/). Harnessing the physical codebooks on site, and reconciling to online sources like [ICPSR](http://www.icpsr.umich.edu/). During my short internship, I vastly increased the amount of metadata present in the repository.  
+As an intern, I was tasked with providing metadata for CISER's burgeoning [online data portal](http://ciser.cornell.edu/). Harnessing the physical codebooks on site, and reconciling to online sources like [ICPSR](http://www.icpsr.umich.edu/). During my short internship, I vastly increased the amount of metadata present in the repository.  
 
 **Quality Assurance Tester, PC Games Division, THQ Inc.**  
 _2006-2007_  
-As a quality assurance tester for the now-defunct video games publisher THQ, I tested PC games and logged any errors in a database, taking note of local environment and steps to reproduce the bugs. During crunch times, I worked overtime and even doubletime in order to meet publishing deadlines. I was offered a permanent position, but declined in order to return to my education.  
+As a quality assurance tester for the now-defunct video games publisher THQ, I tested PC games and logged any errors in a database, taking note of local environment and steps to reproduce the bugs. During 'crunch' times, I worked overtime and even doubletime in order to meet publishing deadlines. I was offered a permanent position, but declined in order to return to my education.  
 
 # Education
 
@@ -49,22 +49,22 @@ _2000-2005_
 
 # Other Professional Activities
 
-+ [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin](http://www.amazon.com/Metadata-Second-Marcia-Lei-Zeng/dp/1555709656) (coming Feb. 2016)    
++ [Metadata, Second Edition, by Marcia Lei Zeng and Jian Qin](http://www.worldcat.org/oclc/894201488)     
 I helped copy edit and add content to each chapter in the book.  
 
 # Technical Skills and Expertise
 
-+ Expertise in multiple metadata standards, including MODS, MADS, METS, RDF/XML, EAD, schema.org, as well as knowledge of application profiles  
-+ Experience creating metadata standards, application profiles, and data modeling  
-+ Knowledge of Linked Data theories and methods, especially as it relates to library data     
++ Expertise in multiple metadata standards, including MODS, MADS, METS, RDF (and serializations), EAD, schema.org, as well as knowledge of application profiles  
++ Experience creating metadata standards, ontologies, application profiles, and data modeling  
++ Knowledge of linked data theories and methods, especially as it relates to library data     
 + Data cleaning and metadata enrichment expertise  
 + Data transformation and enhancement through OpenRefine, APIs (parsing JSON and HTML), SPARQL queries, and XSL-T  
 + Basic scripting and regular expression knowledge (Python, shell)  
-+ Creating static web pages for documentation via GitHub Pages and ReadTheDocs, harnessing Jekyll, Markdown, GitHub, etc for rapid deployment.  
++ Creating static web pages for documentation via GitHub Pages and ReadTheDocs, harnessing Jekyll, Markdown, GitHub, etc for rapid deployment   
 + File management and version control software, especially as it relates to data management    
 + Basic LAMP (also Nginx) server administration, with PHP and shell scripting relevant to security and automation  
 + Experience in the Fedora/Islandora/Drupal stack as well as the Fedora/Hydra/Blacklight stack; involved in the Hydra community      
 + Digitization and scanning experience  
 + Novice database administration experience (MySQL, SQL Server)  
-+ Comfortable with software testing in support of rapid deployment and agile/iterative design methods    
-+ Experience with many Linux flavors, comfortable with virtual machines and environments (Vagrant, Docker, the upcoming Otto)   
++ Comfortable with software testing in support of rapid deployment and agile/iterative design methods as well as management software (JIRA, Redmine)      
++ Experience with many Linux flavors, comfortable with virtual machines and environments (VirtualBox, Vagrant, Docker, the upcoming Otto)   
