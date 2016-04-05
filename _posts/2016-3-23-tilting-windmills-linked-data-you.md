@@ -38,4 +38,4 @@ We could wave our hands and say, well, this doesn't matter: that object is still
 
 And yet, we have _\<bf:hasExpression\>_. Is it crazy to suggest this has arisen out of conformance to past thinking, accepting that past mentality as gospel, and not incorporating enough new ways of thinking? I don't.  
 
-So, call it a record if you like. But heed Roy's overall message regardless, because he's making very good points.  
+So, call it a record if you like. But heed Roy's overall message regardless, because he's making very good points.   
