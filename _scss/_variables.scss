@@ -23,8 +23,8 @@ $darkGreen: #0a7304;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $opensans: "Open Sans", sans-serif;
-$georgia: Georgia, serif;
-$mono: 'Ubuntu Mono', 'Droid Sans Mono';
+$georgia: Georgia, sans-serif;
+$mono: 'Ubuntu Mono', 'Droid Sans Mono', 'Consolas';
 
 // Mobile breakpoints
 @mixin mobile {
