@@ -65,7 +65,8 @@ $ head mastermarcfile.mrk
 
 To read the _last_ 10 lines of the file in the terminal, use `tail` instead of `head`. If you need more than 10 lines, say 100, specify in a flag: `head -n 100 mastermarcfile.mrk`  
 
-If I want to do more, we can use `more` and `less`. This will bring us to another interface. This may seem counterintuitive, but you actually can do more in `less`, like scrolling. Let's do that on our big file:  
+If I want to do more, we can use `more` and `less`. This will bring us to another interface. This may seem counterintuitive, but you actually can do more in `less`, like scrolling. Let's do that on our big file:       
+
 ~~~ shell
 # View the file a bit more interactively
 $ less mastermarcfile.mrk
