@@ -7,8 +7,7 @@ _tldr:_ Navigating on the command line and using common CLI (Command Line Interf
 
 Looking at a recent metadata job posting, it included the following:  
 
->and [the librarian] is expected to write scripts (e.g. Python, Perl)  
->for repurposing existing metadata  
+>and [the librarian] is expected to write scripts (e.g. Python, Perl) for repurposing existing metadata  
 
 It's unavoidable that scripting and data analysis will become a large part of the profession moving forward, and the basis of all that is being comfortable on the command line. Organizations like Code4Lib are starting to provide boot camps[^1] and papers[^2] focusing on the command line. So let's look at some examples.    
 
@@ -41,8 +40,7 @@ In our unit at work, every single project lives in a staging area with all the p
 #!/bin/sh
 
 # Make the 6 directories (no spaces in the folder names!)
-mkdir Admin CLR Final_files Final_metadata \
-Working_files Working_metadata
+mkdir Admin CLR Final_files Final_metadata Working_files Working_metadata
 ~~~
 
 You might ask what that nonsense at the top is. This is simply telling the computer where our shell is located. I've named this script `folder_pro.sh` and added it to my computer's PATH (This can be difficult in Windows). So in the future, when I want those folders to be created somewhere, I simply run the script by typing it as a command while in the desired directory: `folder_pro.sh`. Then type `ls` to make sure it worked.  

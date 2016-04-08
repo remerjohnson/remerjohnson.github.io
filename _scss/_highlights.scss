@@ -21,6 +21,8 @@ code {
   background-color: $lightGray;
   padding: 5px;
   color: $black;
+  word-break: break-all;
+  word-wrap: break-word;
 }
 
 // Solarized Light Pygments
