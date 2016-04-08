@@ -78,6 +78,17 @@ a {
   }
 }
 
+code {
+  font-family: $mono;
+  font-size: 18px;
+  background-color: $lightGray;
+  padding: 5px;
+  color: $black;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  width:100%; overflow-x:auto;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
