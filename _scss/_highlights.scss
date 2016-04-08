@@ -23,6 +23,7 @@ code {
   color: $black;
   word-break: break-all;
   word-wrap: break-word;
+  width:100%; overflow-x:auto;
 }
 
 // Solarized Light Pygments
