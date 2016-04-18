@@ -19,22 +19,22 @@ In order to simulate the shell prompt, I will use code blocks that begin with a 
 
 ## Use cases
 
-I'll attempt to break this into 'simple' and 'advanced' (advanced cases tend to save more time or have unique capabilities, but requires more homework).  
+I'll attempt to break this into 'simple' and 'advanced' (advanced cases tend to save more time or have unique capabilities, but require more homework).  
 
 ## Simple Uses
 
 ### Make a File Listing
-Let's say I have a file directory with hundreds of files. I need a list of all the files in that directory. Crtl+A (select all) and Ctrl+C (copy) in Windows Explorer won't help here. You could hunt around on the internet for tools with a GUI that will do this, or you could just write one line on the CLI:    
+Let's say I have a file directory with hundreds of files, and I need a list of all the files in that directory. Crtl+A (select all) and Ctrl+C (copy) in Windows Explorer won't help here. You could hunt around on the internet for tools with a GUI that will do this... or you could just write one line on the CLI:    
 
 ~~~ shell
 $ ls > filelist.txt
 ~~~
 
-This simple line did something a bit complex: It used the output of one command (`ls`, which simply lists the contents of your current directory) and wrote it out to a file because it used a `>`: the result is that this directory will now have a `filelist.txt` file with the entire file list. We could talke about things like `stdout` but all you need to know is you can put the the results (output) of commands into files.    
+This simple line did something a bit complex: It used the output of one command (`ls`, which simply lists the contents of your current directory) and wrote it out to a file because it used a `>`: the result is that this directory will now have a `filelist.txt` file with the entire file list. We could talk about things like `stdout` but all you need to know is you can put the the results (output) of commands into files.    
 
 ### Make a Bunch of Files or Directories
 
-In our unit at work, every single project lives in a staging area with all the project's data and metadata. We decided this structure would be the same for every project, and would be composed of 6 pre-determined folder names. While this could be accomplished by making sure an existing directory structure were _completely_ empty, and copying/pasting that into each new project, what if you begin a project that will have 10 subcollections, each needing those 6 folders? Let's automate this with a small shell script:  
+In our unit at work, every single project lives in a staging area with all the project's data and metadata. We decided this structure would be the same for every project, and would be composed of 6 predetermined folder names. While this could be accomplished by making sure an existing directory structure were _completely_ empty, and copying/pasting that into each new project, what if you begin a project that will have 10 subcollections, each needing those 6 folders? Let's automate this with a small shell script:  
 
 ~~~ shell
 #!/bin/sh
@@ -51,40 +51,43 @@ Let's say I have a month's worth of MARC files in a directory. I want to concate
 
 ~~~ shell
 # Combine the two files, then output to merged file
-$ cat marcfile1.mrk marcfile2.mrk > mastermarcfile.mrk
+$ cat marcfile1.mrx marcfile2.mrx > mastermarcfile.mrx
 ~~~
 
 So now I have a giant file. I want to get a sense of what the data looks like, but once again, I do not want to open it with an and slow down my system, or even crash programs. Let's use `head`:  
 
 ~~~ shell
 # Read the first 10 lines in the terminal
-$ head mastermarcfile.mrk
+$ head mastermarcfile.mrx
 ~~~
 
-To read the _last_ 10 lines of the file in the terminal, use `tail` instead of `head`. If you need more than 10 lines, say 100, specify in a flag: `head -n 100 mastermarcfile.mrk`  
+To read the _last_ 10 lines of the file in the terminal, use `tail` instead of `head`. If you need more than 10 lines, e.g. 100, specify in a `-n` flag: `head -n 100 mastermarcfile.mrk`  
 
 If I want to do more, we can use `more` and `less`. This will bring us to another text interface. This may seem counterintuitive, but you actually can do more in `less`, like scrolling. Let's do that on our big file:       
 
 ~~~ shell
 # View the file a bit more interactively
-$ less mastermarcfile.mrk
+$ less mastermarcfile.mrx
 ~~~
 
+Once you've seen enough, you can exit by pressing 'q' to quit.  
 
 ## Advanced Uses
 
 ### Use Regular Expressions to Search and Replace
 
-I've placed regular expressions in the 'Advanced' section because regular expressions are a language unto their own. It takes time to learn, and is initially not a very readable language. Regular expressions are very powerful, though, and especially useful to metadata people. You can accomplish things with regular expressions in a variety of programming languages (such as the built in `re` library in Python), but in the shell, the utilities `grep` `sed` and `awk` excel at text processing and pattern matching. The intricacies of each are beyond this post's scope, but as an example, let's say recently we determined the word 'Internet' should be lowercase from now on ('internet'). I have a file (file.txt) that's filled with occurrences of 'Internet'. Of course we know of GUI ways to Search and Replace in certain text editors, but we can do it from the shell like so:  
+I've placed regular expressions in the 'Advanced' section because regular expressions are their own language. It takes time to learn, and is initially not a very readable language. Regular expressions are very powerful, though, and especially useful to metadata people. You can accomplish things with regular expressions in a variety of programming languages (such as the built in `re` library in Python, or the Java-like GREL language in OpenRefine), but in the shell, the utilities `grep` `sed` and `awk` excel at text processing and pattern matching. The intricacies of each are beyond this post's scope, but as an example, let's say recently we determined the word 'Internet' should be lowercase from now on ('internet'). I have a file (file.txt) that's filled with occurrences of 'Internet'. Of course we know of GUI ways to Search and Replace in certain text editors like SublimeText, but we can do it from the shell like so:  
 
 ~~~ shell
 # Replace all 'Internet' with 'internet'
 $ sed -i 's/Internet/internet/' file.txt
 ~~~     
 
+Without that `-i` flag, it only would have replaced the first occurrence of 'Internet' in each line. This should give you some idea about how complex and thus how powerful some of the combinations of regular expressions can be in massaging and cleaning data.  
+
 ### Piping
 
-You may have noticed above that utilities can be used interchangeably, and in fact, that is one of the most powerful uses of the command line. When we separate two commands with a pipe separator, `|`, the _output_ of the previous command becomes the _input_ of the following command. The possibilities here are endless. Experiment to see which ones work the best. Once you have that complex command as one line and it works, you can now save that for future use. This differs from a GUI process, where you would have to document all the steps and clicks you performed, and might have to include screenshots (and then specify all the versions of the programs you were using).      
+You may have noticed above that utilities can be used interchangeably, and in fact, that is one of the most powerful uses of the command line. When we separate two commands with a pipe separator, `|`, the _output_ of the previous command becomes the _input_ of the following command. The possibilities here are endless. Experiment to see which ones work the best. Once you have that complex command as one line and it works, you can now save that for future use. This differs from a GUI process, where you would have to document all the steps and clicks you performed, and might have to include screenshots (and then specify all the versions of the programs as well as the operating system you were using).      
 
 ## Wrap Up
 
