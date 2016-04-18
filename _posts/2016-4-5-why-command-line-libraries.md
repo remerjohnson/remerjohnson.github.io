@@ -61,7 +61,7 @@ So now I have a giant file. I want to get a sense of what the data looks like, b
 $ head mastermarcfile.mrx
 ~~~
 
-To read the _last_ 10 lines of the file in the terminal, use `tail` instead of `head`. If you need more than 10 lines, e.g. 100, specify in a `-n` flag: `head -n 100 mastermarcfile.mrk`  
+To read the _last_ 10 lines of the file in the terminal, use `tail` instead of `head`. If you need more than 10 lines, e.g. 100, specify in a `-n` flag: `head -n 100 mastermarcfile.mrx`  
 
 If I want to do more, we can use `more` and `less`. This will bring us to another text interface. This may seem counterintuitive, but you actually can do more in `less`, like scrolling. Let's do that on our big file:       
 
