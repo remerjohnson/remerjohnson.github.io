@@ -27,7 +27,7 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $opensans: "Open Sans", sans-serif;
 $georgia: Georgia, sans-serif;
-$mono: 'Ubuntu Mono', Ubuntu, 'Droid Sans Mono', 'Consolas';
+$mono: "Ubuntu Monospace", Ubuntu, "Droid Sans Mono", Consolas, monospace;
 
 // Mobile breakpoints
 @mixin mobile {
