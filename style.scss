@@ -1,13 +1,11 @@
 ---
 ---
 
-//
-// IMPORTS
-//
+/* IMPORTS */
 
-@import "_reset";
-@import "_variables";
-// Syntax highlighting @import is at the bottom of this file
+@import "reset";
+@import "variables";
+/* Syntax highlighting @import is at the bottom of this file */
 
 /**************/
 /* BASE RULES */
@@ -120,7 +118,7 @@ img {
   text-align: center;
 }
 
-// Specify the color of the selection
+/* Specify the color of the selection */
 ::-moz-selection {
   color: $black;
   background: $lightGray;
@@ -130,8 +128,8 @@ img {
   background: $lightGray;
 }
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
+/* Nicolas Gallagher's micro clearfix hack */
+/* http://nicolasgallagher.com/micro-clearfix-hack/ */
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -146,9 +144,7 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-//
-// .masthead
-//
+/* .masthead */
 
 .wrapper-masthead {
   margin-bottom: 50px;
@@ -213,7 +209,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px; /* @TODO: Vertically middle align*/
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -238,9 +234,7 @@ nav {
   }
 }
 
-//
-// .main
-//
+/* .main */
 
 .posts > .post {
   padding-bottom: 2em;
@@ -288,6 +282,6 @@ footer {
   text-align: center;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "_highlights";
+/* Settled on moving the import of syntax highlighting to the bottom of the CSS */
+/* ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start */
+@import "highlights";
