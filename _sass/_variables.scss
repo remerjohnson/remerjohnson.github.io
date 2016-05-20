@@ -23,10 +23,10 @@ $darkGreen: #0a7304;
 /* Font stacks */
 $helvetica: Helvetica,Arial,sans-serif;
 $helveticaNeue: helveticaNeue,Helvetica,Arial,sans-serif;
-$ubuntu: "Ubuntu","Open Sans",helveticaNeue,Helvetica,Arial,"Lucida Grande",sans-serif;
+$ubuntu: Ubuntu,"Open Sans",helveticaNeue,Helvetica,Arial,"Lucida Grande",sans-serif;
 $opensans: "Open Sans",sans-serif;
 $georgia: Georgia,sans-serif;
-$mono: "Ubuntu Mono",Ubuntu,"Droid Sans Mono",Consolas,monospace;
+$mono: "Ubuntu Mono",Ubuntu,"Droid Sans Mono","Andale Mono",Consolas,monospace;
 
 /* Mobile breakpoints */
 @mixin mobile {
