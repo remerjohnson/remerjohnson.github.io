@@ -1,15 +1,13 @@
 
-//
-// VARIABLES
-//
+/* VARIABLES */
 
-// Colors
+/* Colors */
 
-// Blues
+/* Blues */
 $blue: #4183C4;
 $lightBlue: #357AE8;
 
-// Grays
+/* Grays */
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
@@ -17,20 +15,20 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
-// Greens
+/* Greens */
 $lightGreen: #11c107;
 $green: #0d9a05;
 $darkGreen: #0a7304;
 
-// Font stacks
+/* Font stacks */
 $helvetica: Helvetica,Arial,sans-serif;
-$helveticaNeue: "Helvetica Neue",Helvetica,Arial,sans-serif;
-$ubuntu: "Ubuntu","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+$helveticaNeue: helveticaNeue,Helvetica,Arial,sans-serif;
+$ubuntu: "Ubuntu",helveticaNeue,Helvetica,Arial,"Lucida Grande",sans-serif;
 $opensans: "Open Sans",sans-serif;
 $georgia: Georgia,sans-serif;
-$mono: "Ubuntu Mono Regular",Ubuntu,"Droid Sans Mono",Consolas,monospace;
+$mono: "Ubuntu Mono",Ubuntu,"Droid Sans Mono",Consolas,monospace;
 
-// Mobile breakpoints
+/* Mobile breakpoints */
 @mixin mobile {
   @media screen and (max-width: 640px) {
     @content;
