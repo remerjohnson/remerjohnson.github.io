@@ -25,9 +25,10 @@ $darkGreen: #0a7304;
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$ubuntu: Ubuntu, sans-serif;
 $opensans: "Open Sans", sans-serif;
 $georgia: Georgia, sans-serif;
-$mono: "Ubuntu Monospace", Ubuntu, "Droid Sans Mono", Consolas, monospace;
+$mono: "Ubuntu Mono Regular", Ubuntu, "Droid Sans Mono", Consolas, monospace;
 
 // Mobile breakpoints
 @mixin mobile {
