@@ -21,7 +21,7 @@ In order to simulate the shell prompt, I will use code blocks that begin with a 
 
 I'll attempt to break this into 'simple' and 'advanced' (advanced cases tend to save more time or have unique capabilities, but require more homework).  
 
-## Simple Uses
+# Simple Uses
 
 ### Make a File Listing
 Let's say I have a file directory with hundreds of files, and I need a list of all the files in that directory. Crtl+A (select all) and Ctrl+C (copy) in Windows Explorer won't help here. You could hunt around on the internet for tools with a GUI that will do this... or you could just write one line on the CLI:    
@@ -44,6 +44,16 @@ mkdir Admin CLR Final_files Final_metadata Working_files Working_metadata
 ~~~
 
 You might ask what that nonsense at the top is. This is simply telling the computer where our shell is located. I've named this script `folder_pro.sh` and added it to my computer's PATH (This can be difficult in Windows). So in the future, when I want those folders to be created somewhere, I simply run the script by typing it as a command while in the desired directory: `folder_pro.sh`. Then type `ls` to make sure it worked.  
+
+### Batch Delete Certain Files
+
+Sometimes a collection has a certain directory structure that we want to modify so that we can batch upload it using repository tools. Let's say we have a directory with a thousand .tif files, but also a .jpg derivative that we don't need. We can simply run:  
+
+~~~ shell
+$ rm *.jpg
+~~~
+
+This deletes any file ending in .jpg. The asterisk (`*`) is a wildcard character, and translates to 'anything', so we're saying 'delete anything that ends in .jpg'. For more complex tasks, you might need to make a script, and might also want to see the section on Regular Expressions.  
 
 ### Dealing with Large Files
 
@@ -72,7 +82,7 @@ $ less mastermarcfile.mrx
 
 Once you've seen enough, you can exit by pressing 'q' to quit.  
 
-## Advanced Uses
+# Advanced Uses
 
 ### Use Regular Expressions to Search and Replace
 
