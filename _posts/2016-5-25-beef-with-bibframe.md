@@ -1,14 +1,14 @@
 ---
 layout: post
-title: BIBFRAME Has a FRBR Problem
+title: Beef With BIBFRAME
 ---
 
 Now that [BIBFRAME 2.0](https://www.loc.gov/bibframe/docs/index.html) has slowly been rolling out, it feels as if we are moving from the alpha phase to the beta phase. And in that regard, we can begin to critique BIBFRAME and have it not seem unfair. Believe me, it was hard to hold back over the many, many glaring problems with BIBFRAME 1.0. As I'll go over in this post, although 2.0 makes a lot of steps in the right direction, I still think that BIBFRAME has a FRBR-sized hole in it, and is driving a lot of the remaining problems that could keep BIBFRAME from achieving its stated goals.    
 
 To put my critique into context, let's look at some of the [stated goals of BIBFRAME](https://www.loc.gov/bibframe/faqs/):  
 1. [I]ntegrate with and engage in the wider information community and still serve the very specific needs of libraries.  
-1. Differentiate clearly between conceptual content and its physical/digital manifestation(s).  
-1. Leverage and expose relationships between and among entities.
+2. Differentiate clearly between conceptual content and its physical/digital manifestation(s).  
+3. Leverage and expose relationships between and among entities.
 
 Let's dig in, out of order of course!     
 
@@ -25,14 +25,15 @@ I might be doing a lot of assumption here, but I believe this problem is borne f
 In past data formats like XML and MARC, hierarchy was critical. Indeed, attempting to put random XML fields where they didn't adhere to the schema was fatal, and the data were invalid. With Linked Data, which is represented in RDF; it's not that hierarchy is unimportant, but it does become a hindrance to have too much of it. I say this because, once again, since we are imposing a rather high level of organization on what 'things' must be (Work, Instance, Item), we are already creating separate pyramids of data with their own sort of data model. Furthermore, there is almost no 'borrowing' of predicates/properties between Work, Instance, and Item. We cannot simply have something like 'hasTitle':
 
 This violates BIBFRAME's own [RDF conventions](https://www.loc.gov/bibframe/docs/bibframe2-rdf-conventions.html):  
->7)   Proliferation of Properties
-Avoid proliferation of properties by defining a single general property when multiple potential properties have the same meaning.  
+
+>7) Proliferation of Properties  
+>Avoid proliferation of properties by defining a single general property when multiple potential properties have the same meaning.  
 
 Once again, I think this way of looking at things stems from FRBR. We are at a high level forced to sort things into a Work, Expression, etc. Although BIBFRAME simplified this somewhat, it still exists, but common properties are still needlessly delineated. Instead of a simple `bf:title`, we have a title for each superclass: `bf:InstanceTitle`, `bf:WorkTitle`. Well, each superclass except for Item!  
 
 No one has been able to point my to why 'title' can't just be used across resources. Which could spell trouble if/when we decide we want BIBFRAME to describe a website: is a website a Work or an Instance or an Item?  
 
-_Note: BIBFRAME's ontology has been [updated](http://id.loc.gov/ontologies/bibframe.html#p_title) and seem to now allow the common 'title' property for Works, Instances, and Items. We'll see if they then deprecate WorkTitle and InstanceTitle..._   
+_Note: BIBFRAME's ontology has been [updated](http://id.loc.gov/ontologies/bibframe.html#p_title) and seems to now allow the common 'title' property for Works, Instances, and Items. We'll see if they then deprecate WorkTitle and InstanceTitle..._   
 
 # A Hyperfocus on Bibliographic Materials Ensures it Will Remain Niche
 
