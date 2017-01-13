@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400,700,400italic);
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-      body { font-family: 'Droid Serif'; }
+      body { font-family: 'Fira Sans Condensed', sans-serif; }
       h1, h2, h3 {
         font-family: 'Yanone Kaffeesatz';
         font-weight: normal;
@@ -19,6 +19,17 @@
       }
       li p { line-height: 1.25em; }
       .red { color: #fa0000; }
+      .darkblue { color: #0c30e6; }
+      a, a > code {
+        color: rgb(42, 110, 235);
+        text-decoration: none;
+      }
+      code {
+        background: #e7e8e2;
+        border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-code-line-highlighted     { background-color: #dcded3; }
       .inverse {
         background: #272822;
         color: #777872;
@@ -28,7 +39,6 @@
         color: #f3f3f3;
         line-height: 0.8em;
       }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
     </style>
   </head>
   <body>
@@ -39,7 +49,7 @@ class: center, top
 count: false
 background-image: url(/images/geisel.jpg)
 
-# New Descriptive Practices in Libraries
+# .darkblue[New Descriptive Practices in Libraries]
 
 \* \* \*
 
@@ -52,11 +62,9 @@ name: agenda
 # Agenda
 
 1. Introduction
-2. Assessment of Metadata Quality
+2. Assessment of Metadata Quality [link](http://dlfmetadataassessment.github.io/)
 3. How Do We Make Metadata Better?
 4. Uniting the Fragmented Library Metadata World
-
-[NOTE]: Note that you need active internet connection to access remark.js script file
 
 .footnote[.red[*]Important footnote]
 
@@ -64,14 +72,43 @@ name: agenda
 class: inverse
 # Introduction
 
+
 ---
 Hello world!
+
+Let's do some `code`
+
+Now let's look at some XML code:
+
+```xml
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      /* Slideshow styles */
+    </style>
+  </head>
+  <body>
+*    <textarea id="source">
+      <!-- Slideshow Markdown -->
+    &lt;/textarea&gt;
+*    <script src="remark.js">
+    </script>
+    <script>
+*      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
+```
 
     </textarea>
     <script src="/scripts/remark-latest.min.js" type="text/javascript">
     </script>
     <script type="text/javascript">
-      var slideshow = remark.create();
+    var slideshow = remark.create({
+        highlightStyle: 'github',
+        highlightLines: true
+      }) ;
     </script>
   </body>
 </html>
