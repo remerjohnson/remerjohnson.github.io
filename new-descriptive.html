@@ -43,9 +43,14 @@
   </head>
   <body>
     <textarea id="source">
-
+name: inverse
+layout: true
+class: center, middle, inverse
+count: false
+---
 name: title
 class: center, top
+layout: false
 count: false
 background-image: url(/images/geisel.jpg)
 
@@ -62,17 +67,13 @@ name: agenda
 # Agenda
 
 1. Introduction
-2. Metadata Assessments & the Environment - [link](http://dlfmetadataassessment.github.io/)
+2. Metadata Assessment & the Environment
 3. What is Needed for High Quality Metadata?
-4. Uniting the Fragmented Library Metadata World
-
-.footnote[.red[*]Important footnote]
+4. Near Future of the Library Metadata World
+5. Wrap Up
 
 ---
-name: inverse
-layout: true
-class: center, middle, inverse
----
+template: inverse
 # Introduction
 
 ---
@@ -81,37 +82,80 @@ layout: false
 # Introduction
 _I was given leeway to present on any metadata topic, so here goes!_
 
+* Metadata analyst for [UC San Diego Digital Collections](https://library.ucsd.edu/dc/). Special collections, research data, etc.
+
+* Hydra-based repository; RDF-based metadata that supports transformation of MARC, MODS, SharedShelf, and more. We call these "input streams".
+
+* Past metadata work in digital humanities, social science; video game quality assurance tester.
+
 ---
 template: inverse
-# Metadata Assessments & the Environment
+# Metadata Assessment & Today's Environment
 
 ---
-Hello world!
+# Metadata Assessment & Today's Environment
+* DLF Metadata Assessment group - http://dlfmetadataassessment.github.io/
+    * _A wide range of groups are addressing issues related to metadata and issues related to assessment of library services, but relatively few are directly working on the assessment of metadata._
 
-Let's do some `code`
+* Europeana's _Report and Recommendations from the Task Force on Metadata Quality_ - [link](http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf)
+    * "Good quality metadata" defined as:
+      1. Resulting from a series of trusted processes
+      2. Findable
+      3. Readable
+      4. Standardized
+      5. Meaningful to audiences
+      6. Clear on re-use
+      7. Visible
 
-Now let's look at some XML code:
+---
+template: inverse
+# What is Needed for High Quality Metadata?
 
-```xml
-<!DOCTYPE html>
-<html>
-  <head>
-    <style type="text/css">
-      /* Slideshow styles */
-    </style>
-  </head>
-  <body>
-*    <textarea id="source">
-      <!-- Slideshow Markdown -->
-    &lt;/textarea&gt;
-*    <script src="remark.js">
-    </script>
-    <script>
-*      var slideshow = remark.create();
-    </script>
-  </body>
-</html>
-```
+---
+# What is Needed for High Quality Metadata?
+
+* .darkblue[Trust] and .darkblue[transparency] in processes that produce metadata.
+
+* .darkblue[Skills] development in software, data analysis, metadata enrichment, etc.
+
+* Openly available .darkblue[documentation] of all of the above.
+
+* .darkblue[Collaboration] between metadata staff, and management giving them "permission to learn".
+
+---
+template: inverse
+# Near Future of the Library Metadata World
+---
+# Near Future of the Library Metadata World
+
+### Warning: speculation!
+
+* Currently MARC vs. non-MARC: Future BIBFRAME vs. non-BIBFRAME?
+    * This being "good" or "bad" depends on perspective and goals.
+
+* Aggregators and LoC will drive rapid standards and processes development.
+    * Somewhat paradoxically, MARC will survive for quite a while. (sorry, [Roy](http://lj.libraryjournal.com/2002/10/ljarchives/marc-must-die/))
+
+* Day-to-day cataloging will look very similar to today.
+    * In-depth knowledge of linked data, ontologies, and hypermedia will remain the domain of limited number of experts.
+
+---
+template: inverse
+# Wrap Up
+---
+# Wrap Up
+
+* Disruption occurring, but metadata folks can adjust with gradual skill development.
+
+* Linked data adoption remains slow and ultimately will not change cataloging work radically.
+
+* A focus on metadata _quality_, assessment, and documentation should be primary focus.
+
+---
+template: inverse
+# Thank You!
+
+.footnote[email: <rejohnson@ucsd.edu>]
 
     </textarea>
     <script src="/scripts/remark-latest.min.js" type="text/javascript">
