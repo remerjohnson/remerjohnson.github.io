@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Resume
 permalink: /resume/
 ---
 
@@ -13,13 +13,14 @@ Originally from Los Angeles, Ryan received his Master's from Syracuse University
 # Experience
 
 **Metadata Librarian and Data Curation Specialist, UC San Diego**  
+**Rank:** Assistant Librarian  
 _2014 - current_  
 
-As a member of the Digital Object Metadata Management Unit in the Geisel Library, I clean, map, and transform metadata from data providers to align with the data model of our DAMS (Digital Asset Management System). I am the Metadata Analyst on about a dozen digital collections, ranging from Special Collections papers to protein sequencing analysis research. I helped to refine and plan new data models for the DAMS that better take advantage of Linked Data, best practices, and decisions that communities (for example the Hydra and Fedora communities) have agreed upon.  
+As a member of the Digital Object Metadata unit in the Geisel Library, I clean, map, and transform metadata from data providers to align with the data model of our Digital Collections, also know as the DAMS (Digital Asset Management System). I am the sole Metadata Analyst on dozens digital collections, ranging from Special Collections papers to protein sequencing analysis research. I helped to refine and plan new data models for the DAMS that better take advantage of Linked Data best practices, and decisions from communities (for example the Samvera and Fedora communities) have agreed upon.  
 
-I also helped streamline digital collection publication, which went from a project-specific customization that took on average many months (sometimes a year) to a standard process taking mere weeks.  This streamlining required planning and collaborating with IT to develop ingest tools that could handle MARC, AT, and Excel source metadata into what we refer to as 'input streams'.  
+I also helped streamline digital collection publication, which went from a project-specific customization that took on average many months (sometimes a year), to a standard process taking mere weeks.  This streamlining required planning and collaborating with IT to develop ingest tools that could handle MARC, AT, and Excel source metadata into what we refer to as 'input streams'.  
 
-For context, the UC San Diego DAMS is composed of a triplestore backend (currently undergoing a transition to Fedora 4), Hydra, Blacklight and Solr. The metadata I most commonly work with is serialized in RDF/XML, but I am comfortable in many different serializations of RDF.  
+For context, the UC San Diego DAMS is composed of a custom backend, Blacklight, and Solr. We are transitioning to a new stack based on Fedora 4 and Hyrax. The metadata I most commonly work with is serialized in RDF/XML, but I am comfortable in many different serializations of RDF. I work with many sources of data, including MARC, JSON (via data from APIs), XML, and tabular data. I utilize python tools such as Jupyter Lab and `pandas` in order to work with data cleaning and transformation at scale, and to enable reproducibility.    
 
 **Metadata Assistant, Hamilton College**  
 _2011-2013_  
@@ -40,8 +41,8 @@ As a quality assurance tester for the now-defunct video games publisher THQ, I t
 M.S., Library and Information Science (2012)  
 _2010-2012_  
 
-**California State University, Northridge (2009)**  
-B.A., Interdisciplinary Humanities  
+**California State University, Northridge**  
+B.A., Interdisciplinary Humanities (2009)  
 _2008-2009_  
 
 **University of California, Santa Barbara**   
@@ -54,17 +55,17 @@ I helped copy edit and add content to each chapter in the book.
 
 # Technical Skills and Expertise
 
-+ Expertise in multiple metadata standards, including MODS, MADS, METS, RDF (and serializations), EAD, schema.org, as well as knowledge of application profiles  
++ Expertise in multiple metadata standards and frameworks, including MODS, MADS, METS, RDF (and serializations), EAD, schema.org, as well as knowledge of application profiles  
 + Experience creating metadata standards, ontologies, application profiles, and data modeling  
 + Knowledge of linked data theories and methods, especially as it relates to library data     
 + Data cleaning and metadata enrichment expertise  
-+ Data transformation and enhancement through OpenRefine, APIs (parsing JSON and HTML), SPARQL queries, and XSL-T  
++ Data transformation and enhancement through OpenRefine, APIs (parsing JSON), SPARQL queries, and XSL-T  
 + Basic scripting and regular expression knowledge (Python, shell)  
-+ Creating static web pages for documentation via GitHub Pages and ReadTheDocs, harnessing Jekyll, Markdown, GitHub, etc for rapid deployment   
-+ File management and version control software, especially as it relates to data management    
-+ Basic LAMP (also Nginx) server administration, with PHP and shell scripting relevant to security and automation  
-+ Experience in the Fedora/Islandora/Drupal stack as well as the Fedora/Hydra/Blacklight stack; involved in the Hydra community      
-+ Digitization and scanning experience  
++ Creating static web pages for documentation via GitHub Pages and ReadTheDocs, harnessing Jekyll, Markdown, GitHub, etc. for rapid and iterative deployment   
++ File management and version control software (git and GitHub), especially as it relates to data management and collaboration    
++ Basic LAMP (also Nginx) server administration, with PHP and shell scripting knowledge relevant to security and automation  
++ Experience in the Fedora/Islandora/Drupal stack as well as the Fedora/Samvera/Blacklight stack; involved in the Samvera and Hyrax communities  
++ Archival-quality digitization, scanning, and description experience  
 + Novice database administration experience (MySQL, SQL Server)  
 + Comfortable with software testing in support of rapid deployment and agile/iterative design methods as well as management software (JIRA, Redmine)      
-+ Experience with many Linux flavors, comfortable with virtual machines and environments (VirtualBox, Vagrant, Docker, the upcoming Otto)   
++ Experience with many Linux (esp. Ubuntu) flavors, comfortable with virtual machines and environments (VirtualBox, Vagrant, Docker, Anaconda)   
