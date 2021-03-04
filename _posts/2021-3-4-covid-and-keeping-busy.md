@@ -1,0 +1,10 @@
+---
+layout: post
+title: COVID and Keeping Busy
+---
+
+A lot has happened in the past year of my life. As my last post detailed, I was not promoted in my position and I worked the final 6 months of my job from home due to COVID. I also started working a second job as a part-time instructor for Syracuse University, teaching an Introduction to Metadata course. Amid the craziness of the 2020 Summer, I also uprooted my family from San Diego and moved back to Syracuse. While living in this multi-generational house, my wife's grandmother declined in her health, dealing with dementia and cancer, and finally passed away last month. It's hard to put into words what this past year of COVID has meant to my life and the lives of everyone around the world, but it has been an immense amount of misery, interrupted here and there with brief glimpses of hope. It is that hope that I feel we are all clinging to as we move deeper into 2021.   
+
+So, I've kept busy mainly through teaching and trying to find librarian positions. I have also kept up with my data science and general Python-ing. A cool thing I was working on near the end of my tenure at UCSD was an all-in-one program I called "Pre-Treat," complete with a GUI (graphical user interface). The program took in an Excel sheet (that was the predominant source of data we worked with in our metadata unit), performed all kinds of cleanup routines via the Python library `pandas`, and would give the user the result Excel sheet back. I have frozen development on it for now since some of the routines were specific to the business logic of UCSD, but it is [archived on GitHub](https://github.com/remerjohnson/pre-treat) and I have a good feeling I will revive it in a future metadata position to automate metadata cleaning tasks in a data science-y way.  
+
+The good news is that I will have more time to write posts now, given I do not have two or more jobs sapping all my energy. I'm looking forward to getting vaccinated, continuing teaching, and finding a challenging yet satisfying position in 2021. And I hope all of us can find what we want this year.   
