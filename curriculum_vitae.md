@@ -6,12 +6,12 @@ permalink: /curriculum_vitae/
 
 # Background
 
-Ryan E. Johnson is a librarian with experience in metadata, data curation, and data science. He also is a part-time instructor, teaching library science courses at the Master's level.    
+Ryan E. Johnson is a librarian with experience in metadata, data analytics, data curation, and data science. He also is a part-time instructor, teaching library science courses at the Master's level.    
 
-Originally from Los Angeles, Ryan received his Master's from Syracuse University in Library and Information Science, with a specialization in Digital Libraries. While currently preoccupied with the world of metadata, he is interested in data cleaning and transformation, addressing the challenges of publishing Linked Data, and collaborating with library information technology professionals to build software that provides users with excellent information.  
+Originally from Los Angeles, Ryan received his Master's from Syracuse University in Library and Information Science, with a specialization in Digital Libraries. While currently occupied with the world of metadata, he is interested in any position with data cleaning and transformation, data analysis, building ontologies, and collaborating with others to provide people with excellent, relevant information.  
 
-# Research Interests 
-Metadata reconciliation to linked data using data-driven methods, RDF and ontology design, scripting and applying data science methods for metadata analysis, instructional techniques for teaching software and data skills to information professionals.  
+# Research Interests and Expertise
+Metadata reconciliation to linked data using data-driven methods, data analytics, RDF and ontology design, scripting and applying data science methods for metadata analysis, instructional techniques for teaching software and data skills to information professionals.  
 
 # Experience
 
@@ -19,7 +19,7 @@ Metadata reconciliation to linked data using data-driven methods, RDF and ontolo
 **Rank:** Assistant Librarian  
 _2014 - 2020_  
 
-As a member of the Digital Object Metadata unit in the Geisel Library, I cleaned, mappped, and transformed metadata from data providers to align with the data model of our [Digital Collections](https://library.ucsd.edu/dc/), also known as the DAMS (Digital Asset Management System). I was the sole Metadata Analyst on dozens digital collections, ranging from Special Collections papers to protein sequencing analysis research. I helped to refine and plan new data models for the DAMS that better take advantage of Linked Data best practices, and decisions from communities (for example the Samvera and Fedora communities) have agreed upon.  
+As a member of the Digital Object Metadata unit in the Geisel Library, I cleaned, mappped, and transformed metadata from data providers to align with the data model of our [Digital Collections](https://library.ucsd.edu/dc/), also known as the DAMS (Digital Asset Management System). I was the sole Metadata Analyst on dozens digital collections, ranging from Special Collections papers to protein sequencing analysis research. I helped to refine and plan new data models and ontologies for the DAMS that better take advantage of Linked Data best practices, and decisions from communities (for example the Samvera and Fedora communities) have agreed upon.  
 
 I also helped streamline digital collection publication, which went from a project-specific customization that took on average many months (sometimes a year), to a standard process taking mere weeks.  This streamlining required planning and collaborating with IT to develop ingest tools that could handle MARC, AT, and Excel source metadata into what we refer to as 'input streams.'  
 
@@ -65,17 +65,19 @@ Co-presenter: “Simplifying Rights and Copyright in Samvera,” with co-present
 
 # Technical Skills and Expertise
 
-+ Expertise in multiple metadata standards and frameworks, including MODS, MADS, METS, RDF (and serializations), EAD, schema.org, as well as knowledge of application profiles  
-+ Experience creating metadata standards, ontologies, application profiles, and data modeling  
-+ Knowledge of linked data theories and methods, especially as it relates to library data     
-+ Data cleaning and metadata enrichment expertise  
-+ Data transformation and enhancement through OpenRefine, APIs (parsing JSON), SPARQL queries, and XSL-T  
-+ Basic scripting and regular expression knowledge (Python, shell)  
++ Expertise in multiple metadata standards and frameworks, including MODS, MADS, METS, RDF (and serializations), EAD, [schema.org](https://schema.org/), as well as application profiles  
++ Experience creating and developing metadata standards, ontologies, application profiles, and data modeling  
++ Expertise in data analysis to support stakeholders' and business needs (Python, R, SQL, Tableau and data visualization in Python and R)
++ Capable of teaching beginner courses in data science and data analytics software (e.g. beginner Python, data cleaning, git, SQL)
++ Knowledge of linked data theories and methods, especially as it relates to library data and ontologies    
++ Data cleaning and metadata enrichment expertise, especially adding linked data  
++ Data transformation and enhancement through OpenRefine, APIs (parsing JSON), SPARQL and SQL queries, and XSL-T  
++ Intermediate scripting and regular expression knowledge (Python, R, shell)  
 + Creating static web pages for documentation via GitHub Pages and ReadTheDocs, harnessing Jekyll, Markdown, GitHub, etc. for rapid and iterative deployment   
 + File management and version control software (git and GitHub), especially as it relates to data management and collaboration    
-+ Basic LAMP (also Nginx) server administration, with PHP and shell scripting knowledge relevant to security and automation  
++ Basic LAMP (also Nginx) server administration  
 + Experience in the Fedora/Islandora/Drupal stack as well as the Fedora/Samvera/Blacklight stack; involved in the Samvera and Hyrax communities  
 + Archival-quality digitization, scanning, and description experience  
-+ Novice database administration experience (MySQL, SQL Server)  
-+ Comfortable with software testing in support of rapid deployment and agile/iterative design methods as well as management software (JIRA, Redmine)      
++ Basic database administration experience (MySQL, SQL Server, Postgresql)  
++ Comfortable with software testing in support of rapid deployment and agile/iterative design methods as well as ticketing software (JIRA, Redmine)      
 + Experience with many Linux (esp. Ubuntu) flavors, comfortable with virtual machines and environments (VirtualBox, Vagrant, Docker, Anaconda)   
