@@ -14,7 +14,6 @@ title: Tilting at Windmills of Linked Data
 Let me start off by saying I am not now, nor have I ever been a member of the Commu--, er, a technologist.  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/kshockey04">@kshockey04</a> I often feel like metadata creators and library technologists are talking past each other.</p>&mdash; Erin Leach (@erinaleach) <a href="https://twitter.com/erinaleach/status/712291193682526209">March 22, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 The original post that is referenced by the above tweets, and what got me thinking about how we are starting to deteriorate in regards to linked data is Roy Tennant's [Broken Furniture and Blood on the Floor](http://www.thedigitalshift.com/2016/02/roy-tennant-digital-libraries/broken-furniture-and-blood-on-the-floor/). In it, Roy sets out what he sees as steps back from 'good' linked data (one example of what is meant by 'good' would be the now super-old-by-Internet-standards [5 Stars of Open Linked Data](https://www.w3.org/DesignIssues/LinkedData.html)).  
 
