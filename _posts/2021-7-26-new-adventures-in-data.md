@@ -2,10 +2,7 @@
 layout: post
 title: New Adventures in Data
 description: A quick update on my data journey
-twitter: 
-  username: ejones82
-  card: summary_large_image
-image: ../images/forest-journey.jpg
+image: https://remerjohnson.github.io/images/forest-journey.jpg
 ---
 
 ![Setting off into the evil data forest](/images/forest-journey.jpg)
