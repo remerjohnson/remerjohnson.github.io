@@ -2,10 +2,7 @@
 layout: post
 title: New Adventures in Data
 description: A quick update on my data journey
-image: 
-  path: /images/forest-journey.jpg
-  height: 100
-  width: 100
+image: /images/forest-journey.jpg
 ---
 
 ![Setting off into the evil data forest](/images/forest-journey.jpg)
