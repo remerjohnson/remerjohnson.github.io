@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Adventures in Data
+description: A quick update on my data journey
 ---
 
 It's been an interesting few months for me. I have been close to securing some academic librarian jobs, but can't quite make it over the hump. Although the aggregate job market is currently *very* short on labor, that hasn't seemed to filter into libraries. I think last year they went into downsize / hiring freeze mode and might not ever swing back the other way. I've also been headhunted by some firms, and chuckled when they apologized that the salary would only be double what I made as a librarian.   
